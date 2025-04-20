@@ -79,7 +79,6 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2024 | IET Image Processing | PointnMove | [Point'n Move: Interactive scene object manipulation on Gaussian splatting radiance fields](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.13190) | N/A |
 | 2024 | N/A | FruitNinja | [FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting](http://arxiv.org/abs/2411.12089) | N/A |
 | 2024 | N/A | 360-INPAINTR | [360-INPAINTR: REFERENCE-GUIDED 3D INPAINTING FOR UNBOUNDED SCENES](https://openreview.net/pdf/ee332494bcd7f9e4b66494d65eb850f61e9a0b43.pdf) | N/A |
-
 | 2024 | ACM MM     | N/A          | [3D Gaussian Editing with A Single Image](https://dl.acm.org/doi/pdf/10.1145/3664647.3680858) | N/A |
 | 2024 | ECCV       | 3DEgo        | [3DEgo: 3D Editing on the Go!](https://arxiv.org/pdf/2407.10102) | [Code](https://3dego.github.io/) |
 | 2024 | N/A        | 3DitScene    | [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [Code](https://zqh0253.github.io/3DitScene/) |
