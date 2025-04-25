@@ -52,6 +52,7 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2024 | N/A  | GLS | [ GLS: Geometry-aware 3D Language Gaussian Splatting](http://arxiv.org/abs/2411.18066) | [Code](https://github.com/JiaxiongQ/GLS) |
 | 2024 | N/A  | Gaga | [ Gaga: Group Any Gaussians via 3D-aware Memory Bank](https://arxiv.org/abs/2404.07977) | [Code](https://www.gaga.gallery/) |
 | 2024 | ECCV  | FlashSplat| [ FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](http://arxiv.org/abs/2409.08270) | [Code](https://github.com/florinshen/FlashSplat) |
+| 2024 | N/A   | SA4D| [ Segment Any 4D Gaussians](https://arxiv.org/abs/2407.04504) | [Code](https://jsxzs.github.io/sa4d/) |
 
 
 
