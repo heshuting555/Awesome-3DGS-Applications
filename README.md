@@ -37,7 +37,7 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2024 | ECCV | N2F2 | [ N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields](https://arxiv.org/abs/2403.10997) | N/A |
 | 2025 | AAAI | SAGA | [ Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [Code](https://jumpat.github.io/SAGA/) |
 | 2025 | ECCV | Gaussian Grouping | [ Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732) | [Code](https://github.com/lkeab/gaussian-grouping) |
-| 2024 | N/A  | SAGD | [ SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition](https://arxiv.org/abs/2401.17857) | N/A  |
+| 2024 | N/A  | SAGD | [ SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition](https://arxiv.org/abs/2401.17857) | [Code](https://github.com/XuHu0529/SAGS) |
 | 2024 | N/A  | SLGaussian | [ SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331) | N/A  |
 | 2024 | N/A  | CLIP-GS | [ CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding](http://arxiv.org/abs/2404.14249) | [Code](https://gbliao.github.io/CLIP-GS.github.io/)  |
 | 2024 | NeurIPS  | GaussianCut | [ GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting](http://arxiv.org/abs/2411.07555) | N/A  |
