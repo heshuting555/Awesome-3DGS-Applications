@@ -53,6 +53,12 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2024 | N/A  | Gaga | [ Gaga: Group Any Gaussians via 3D-aware Memory Bank](https://arxiv.org/abs/2404.07977) | [Code](https://www.gaga.gallery/) |
 | 2024 | ECCV  | FlashSplat| [ FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](http://arxiv.org/abs/2409.08270) | [Code](https://github.com/florinshen/FlashSplat) |
 | 2024 | N/A   | SA4D| [ Segment Any 4D Gaussians](https://arxiv.org/abs/2407.04504) | [Code](https://jsxzs.github.io/sa4d/) |
+| 2025 | CVPR   | Unified-Lift| [Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting](https://arxiv.org/abs/2503.14029) | [Code](https://github.com/Runsong123/Unified-Lift) |
+| 2025 | CVPR   | COB-GS| [COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting](https://arxiv.org/abs/2503.19443) | [Code](https://github.com/ZestfulJX/COB-GS) |
+| 2025 | -   | THGS | [Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs](https://arxiv.org/abs/2504.13153) | [Code](https://github.com/Atrovast/THGS) |
+| 2024 | CVPR   | OmniSeg3D | [OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning](https://arxiv.org/abs/2311.11666) | [Code](https://github.com/OceanYing/OmniSeg3D-GS) |
+| 2025 | CVPR   | PanoGS | [PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding](https://arxiv.org/abs/2503.18107) | [Code](https://github.com/zhaihongjia/PanoGS) |
+
 
 
 
