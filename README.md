@@ -61,8 +61,7 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2025 | ICCV   | LangScene-X | [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) | [Code](https://liuff19.github.io/LangScene-X/) |
 | 2025 | CVPR   | Dr. Splat | [Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration](https://arxiv.org/abs/2502.16652) | [Code](https://drsplat.github.io/) |
 | 2025 | CVPR   | CAGS | [CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/abs/2504.11893) | N/A |
-| 2025 | CVPR   | DF_3DGS | [Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression](https://cvpr.thecvf.com/virtual/2025/poster/34457) | [Code](https://github.
-com/dai647/DF_3DGS) |
+| 2025 | CVPR   | DF_3DGS | [Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression](https://cvpr.thecvf.com/virtual/2025/poster/34457) | [Code](https://github.com/dai647/DF_3DGS) |
 | 2025 | N/A   | SemanticSplat | [SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields](https://arxiv.org/abs/2506.09565) | [Code](https://semanticsplat.github.io/) |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | N/A |
 | 2025 | ICLR   | econSG | [econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians](https://arxiv.org/abs/2504.06003) | [Code](https://lulusindazc.github.io/econSGproject/) |
