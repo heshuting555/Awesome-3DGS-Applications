@@ -22,7 +22,7 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2024 | CVPR |   Feature 3DGS   |     [Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields](http://arxiv.org/abs/2312.03203)       | [Code](https://feature-3dgs.github.io/) |
 | 2024 | CVPR |  LEGaussian |[Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding](http://arxiv.org/abs/2311.18482) | [Code](https://buaavrcg.github.io/LEGaussians) | 
 | 2024 | ACM MM | GOI  | [GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane](http://arxiv.org/abs/2405.17596)  | [Code](https://quyans.github.io/GOI-Hyperplane/) |
-| 2024 | N/A | 3D visionlanguage Gaussian splatting | [ 3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577) | N/A |
+| 2025 | ICLR | 3D visionlanguage Gaussian splatting | [ 3D Vision-Language Gaussian Splatting](http://arxiv.org/abs/2410.07577) | N/A |
 | 2024 | N/A | GS3 | [ Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting](https://arxiv.org/abs/2411.18667) | N/A |
 | 2024 | IJCV | FMGS |[ FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding](http://arxiv.org/abs/2401.01970)  | [Code](https://xingxingzuo.github.io/fmgs/) |
 | 2024 | ECCV | FiT3D | [ Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229) | [Code](https://ywyue.github.io/FiT3D) |
@@ -55,9 +55,18 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2024 | N/A   | SA4D| [ Segment Any 4D Gaussians](https://arxiv.org/abs/2407.04504) | [Code](https://jsxzs.github.io/sa4d/) |
 | 2025 | CVPR   | Unified-Lift| [Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting](https://arxiv.org/abs/2503.14029) | [Code](https://github.com/Runsong123/Unified-Lift) |
 | 2025 | CVPR   | COB-GS| [COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting](https://arxiv.org/abs/2503.19443) | [Code](https://github.com/ZestfulJX/COB-GS) |
-| 2025 | -   | THGS | [Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs](https://arxiv.org/abs/2504.13153) | [Code](https://github.com/Atrovast/THGS) |
+| 2025 | N/A   | THGS | [Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs](https://arxiv.org/abs/2504.13153) | [Code](https://github.com/Atrovast/THGS) |
 | 2024 | CVPR   | OmniSeg3D | [OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning](https://arxiv.org/abs/2311.11666) | [Code](https://github.com/OceanYing/OmniSeg3D-GS) |
 | 2025 | CVPR   | PanoGS | [PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding](https://arxiv.org/abs/2503.18107) | [Code](https://github.com/zhaihongjia/PanoGS) |
+| 2025 | ICCV   | LangScene-X | [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) | [Code](https://liuff19.github.io/LangScene-X/) |
+| 2025 | CVPR   | Dr. Splat | [Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration](https://arxiv.org/abs/2502.16652) | [Code](https://drsplat.github.io/) |
+| 2025 | CVPR   | CAGS | [CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/abs/2504.11893) | N/A |
+| 2025 | CVPR   | DF_3DGS | [Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression](https://cvpr.thecvf.com/virtual/2025/poster/34457) | [Code](https://github.
+com/dai647/DF_3DGS) |
+| 2025 | N/A   | SemanticSplat | [SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields](https://arxiv.org/abs/2506.09565) | [Code](https://semanticsplat.github.io/) |
+| 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | N/A |
+| 2025 | ICLR   | econSG | [econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians](https://arxiv.org/abs/2504.06003) | [Code](https://lulusindazc.github.io/econSGproject/) |
+| 2025 | CVPR   | iSegMan | [iSegMan: Interactive Segment-and-Manipulate 3D Gaussians](https://arxiv.org/abs/2505.11934) | [Code](https://zhao-yian.github.io/iSegMan/) |
 
 
 
