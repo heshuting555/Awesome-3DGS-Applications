@@ -62,10 +62,12 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 | 2025 | CVPR   | Dr. Splat | [Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration](https://arxiv.org/abs/2502.16652) | [Code](https://drsplat.github.io/) |
 | 2025 | CVPR   | CAGS | [CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/abs/2504.11893) | N/A |
 | 2025 | CVPR   | DF_3DGS | [Efficient Decoupled Feature 3D Gaussian Splatting via Hierarchical Compression](https://cvpr.thecvf.com/virtual/2025/poster/34457) | [Code](https://github.com/dai647/DF_3DGS) |
-| 2025 | N/A   | SemanticSplat | [SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields](https://arxiv.org/abs/2506.09565) | [Code](https://semanticsplat.github.io/) |
+| 2025 | ArXiv   | SemanticSplat | [SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields](https://arxiv.org/abs/2506.09565) | [Code](https://semanticsplat.github.io/) |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | N/A |
 | 2025 | ICLR   | econSG | [econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians](https://arxiv.org/abs/2504.06003) | [Code](https://lulusindazc.github.io/econSGproject/) |
 | 2025 | CVPR   | iSegMan | [iSegMan: Interactive Segment-and-Manipulate 3D Gaussians](https://arxiv.org/abs/2505.11934) | [Code](https://zhao-yian.github.io/iSegMan/) |
+| 2025 | ArXiv  | FMLGS | [FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents](https://arxiv.org/abs/2504.08581) | N/A |
+| 2025 | ArXiv  | seconGS | [Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying](https://arxiv.org/abs/2503.21767) | N/A |
 
 
 
