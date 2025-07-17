@@ -1,9 +1,13 @@
 # 🔍 A Survey on 3D Gaussian Splatting for High-Level Semantic Scene Tasks: Segmentation, Editing and Generation
 💡 Welcome to the official repository of our journal paper.
 
+## 🎇 Introduction
+
+
+
 ## 📚 Table of Contents
 
-- [📁 Existing Datasets for 3DGS Segmentation](#📁-existing-datasets-for-3dgs-segmentation)
+- [📁 Existing Datasets for 3DGS Segmentation](#--📁-Existing-Datasets-for-3DGS-Segmentation)
 - [🗂️ Existing Datasets for 3DGS Editing](#🗂️-existing-datasets-for-3dgs-editing)
 - [🧩 Existing Datasets for 3DGS Generation](#🧩-existing-datasets-for-3dgs-generation)
 - [🛠️ Existing Method for 3DGS Segmentation](#🛠️-existing-method-for-3dgs-segmentation)
@@ -48,6 +52,19 @@ This section introduces datasets suitable for 3D editing tasks.
 
 | Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
+| SPIn-NeRF~\cite{SPIn-NeRF} | CVPR'23 | 10 | 100 | Providing challenging real-world scenes with views both with and without a target object. |
+| IN2N~\cite{haque2023instructnerf2nerfediting3dscenes} | ICCV'23 | 6 | 172 | Enabling structured and globally consistent 3D scene modifications while preserving the original scene's identity. |
+| BlendedMVS~\cite{yao2020blendedmvs} | CVPR'20 | 113 | 158 | A large-scale MVS dataset, which contains a total of 17,818 images. |
+| ScanNet++~\cite{yeshwanthliu2023scannetpp} | ICCV'23 | 460 | 608 | 280,000 captured DSLR images, and over 3.7M iPhone RGBD frames. |
+| DTU~\cite{jensen2014large} | CVPR'14 | 80 | 343 | Each scene consists of 49 or 64 accurate camera positions and reference structured light scans. |
+| Co3D~\cite{reizenstein2021common} | CVPR'21 | - | - | Consists of 1.5 million frames extracted from ~19,000 videos, covering 50 MS-COCO categories with camera poses and 3D point clouds. |
+| GL3D~\cite{shen2018matchable} | ACCV'18 | 543 | 230 | Contains 125,623 high-res images captured by drones from various environments with geometric overlap. |
+| NeRFstudio~\cite{tancik2023nerfstudio} | SIGGRAPH'23 | 10 | - | Includes 4 phone captures with pinhole lenses and 6 mirrorless camera captures with fisheye lenses. |
+| 360-USIDdataset~\cite{360-InpaintR} | - | 7 | 300 | Includes 4 outdoor (Box, Cone, Lawn, Plant) and 3 indoor (Cookie, Sunflower, Dustpan) scenes. |
+| Mip-NeRF360~\cite{barron2022mipnerf360unboundedantialiased} | CVPR'22 | 9 | 215 | 360° panoramic images from indoor and outdoor environments. |
+| LLFF~\cite{LLFF} | TOG'19 | 32 | 25 | Uses COLMAP SfM to compute poses for real images. |
+| Tanks and Temples~\cite{knapitsch2017tanks} | TOG'17 | 14 | - | Includes individual objects (e.g., Tank, Train) and large indoor scenes (e.g., Auditorium, Museum). |
+| NeRF-synthetic~\cite{NeRF} | ECCV'20 | 8 | 100 | Objects on white backgrounds with 800×800 images and camera poses. |
 
 
 ## 🧩 Existing Datasets for 3DGS Generation
@@ -56,6 +73,18 @@ This section covers datasets used for 3DGS-based generation tasks.
 
 | Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
+| LAION-5B~\cite{schuhmann2022laion} | NeurIPS'22 | Text-to-3D | - | LAION-5B's key feature is its vast scale, with 5.85 billion image-text pairs. |
+| Objaverse~\cite{deitke2023objaverse} | CVPR'23 | Image & Text-to-3D | 800K | Objaverse has a vast scale of 800K+ 3D models with rich annotations. |
+| OmniObject3D~\cite{wu2023omniobject3d} | CVPR'23 | Image-to-3D | 6K | A large-scale collection of high-quality real-scanned 3D objects with rich 2D and 3D annotations. |
+| NYUdepth~\cite{silberman2012indoor} | ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
+| ShapeNet~\cite{chang2015shapenet} | arXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
+| GSO~\cite{GSO} | ICRA'22 | Image & Text-to-3D | 1030 | Comprises 3D scanned common household items. |
+| Replica~\cite{straub2019replica} | arXiv'19 | Image-to-3D | 18 | A 3D indoor scene dataset featuring dense meshes, HDR textures, and semantic labels. |
+| RealEstate10K~\cite{zhou2018stereo} | SIGGRAPH'18 | Image-to-3D | 80K | Comprises home walkthrough videos from YouTube. |
+| ACID~\cite{liu2021infinite} | ICCV'21 | Image-to-3D | 13,047 | Features aerial landscape videos, includes 11,075 training scenes and 1,972 testing scenes. |
+| ScanNet~\cite{dai2017scannet} | CVPR'17 | Image-to-3D | 1513 | Contains 2.5M views in 1513 indoor scenes annotated with 3D camera poses. |
+| LOM~\cite{cui2024aleth} | AAAI'24 | Image-to-3D | 5 | Includes 5 real-world scenes, each with 25–48 sRGB images captured in difficult lighting. |
+| G-objaverse~\cite{zuo2024high} | ECCV'24 | Image & Text-to-3D | 280K | Contains 10 general classes totaling about 280K samples. |
 
 
 
