@@ -1,20 +1,70 @@
-# semantic-3DGS-splatting
-Welcome to the official repository of our journal paper:
-# Overview of Existing Datasets for 3DGS Semantic Scene Understanding
+# 🔍 A Survey on 3D Gaussian Splatting for High-Level Semantic Scene Tasks: Segmentation, Editing and Generation
+💡 Welcome to the official repository of our journal paper.
 
-Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respectively denoted with S and O above.*
+## 📚 Table of Contents
 
-| Datasets with URL   | Venue     | #Scenes | #Imgs  | Centricity | Type   | Data Modalities   | Annotations                                   |
-|---------------------|-----------|---------|--------|------------|--------|-------------------|-----------------------------------------------|
-| [3DMV-VQA](#)       | CVPR 2023 | 5000    | 600K   | S+O        | Indoor | RGB               | Visual question & answer                      |
-| [NeRDS 360](#)      | ICCV 2023 | 75      | 15k    | S+O        | Urban  | Synthetic         | 3D object boxes; 2D panoptic segmentation    |
-| [ScanNet++](#)      | ICCV 2023 | 460     | 3.7M   | S          | Indoor | RGB-D             | 2D/3D panoptic segmentation                  |
-| [KITTI-360](#)      | PAMI 2022 | 10      | 150K   | S+O        | Urban  | RGB & LiDAR       | 2D/3D object boxes; 2D panoptic segmentation |
-| [SHIFT](#)          | CVPR 2022 | 4850    | 2.5M   | S+O        | Urban  | Synthetic         | 2D/3D object boxes; 2D panoptic segmentation |
-| [HM3D Sem](#)       | arXiv 2023| 216     | -      | S          | Indoor | Mesh              | 3D semantic                                  |
+- [📁 Existing Datasets for 3DGS Segmentation](#📁-existing-datasets-for-3dgs-segmentation)
+- [🗂️ Existing Datasets for 3DGS Editing](#🗂️-existing-datasets-for-3dgs-editing)
+- [🧩 Existing Datasets for 3DGS Generation](#🧩-existing-datasets-for-3dgs-generation)
+- [🛠️ Existing Method for 3DGS Segmentation](#🛠️-existing-method-for-3dgs-segmentation)
+- [✏️ Existing Method for 3DGS Editing](#✏️-existing-method-for-3dgs-editing)
+- [🎨 Existing Method for 3DGS Generation](#🎨-existing-method-for-3dgs-generation)
 
-# Overview of Existing Methods of Segmentation for 3DGS Semantic Scene Understanding
 
+
+## 📁 Existing Datasets for 3DGS Segmentation
+
+This section summarizes commonly used datasets for segmentation tasks in 3D Gaussian Splatting.
+
+| Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
+|---------------------|-----------|---------|--------|-----------|
+| [LERF-OVS](https://arxiv.org/abs/2312.16084) | CVPR'24 | 4 | 200 | An extended version of LERF dataset with ground truth mask annotations for open-vocabulary segmentation.|
+|[ScanNet](https://arxiv.org/abs/1702.04405)| CVPR'17 | 1513 | 1500  | Large-scale RGB-D scans with 3D poses and semantics for advanced scene understanding.|
+|[Replica](https://arxiv.org/pdf/1906.05797) | ArXiv'19 | 18 | 175 | High-quality indoor scans with geometry, HDR textures, and rich semantic labels.|
+|[SPIn-NeRF](https://arxiv.org/abs/2211.12254) | CVPR'23 | 10 | 100  | Providing challenging real-world scenes with views both with and without a target object.|
+|[Mip-NeRF 360](https://arxiv.org/abs/2111.12077) | CVPR'22 | 9 | 215 | Focusing on capturing complex lighting, geometry, and texture details.|
+|[3D-OVS](https://arxiv.org/abs/2305.14093) | NeurIPS'23 | 10 | 30 | Including high-quality 3D objects spanning diverse categories with language-aligned semantic labels.|
+|[LERF-Mask](https://arxiv.org/abs/2312.00732) | ECCV'24 | 3 | 200 | Containing semantic annotations of three scenes from LERF dataset~\cite{LERF} with a total of 23 prompts.|
+|[NVOS](https://arxiv.org/abs/2103.05606) | CVPR'21 | 8 | 36 | Built on LLFF with undistorted images, annotated with masks and scribbles for segmentation tasks.| 
+|[Ref-LERF](https://openreview.net/forum?id=reuShgiHdg)| ICML'25 | 4 | 200 | Focusing on spatial relationships, annotated with natural language expressions for referring 3DGS segmentation.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🗂️ Existing Datasets for 3DGS Editing
+
+This section introduces datasets suitable for 3D editing tasks.
+
+| Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
+|---------------------|-----------|---------|--------|-----------|
+
+
+## 🧩 Existing Datasets for 3DGS Generation
+
+This section covers datasets used for 3DGS-based generation tasks.
+
+| Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
+|---------------------|-----------|---------|--------|-----------|
+
+
+
+
+
+
+## 🛠️ Existing Method for 3DGS Segmentation
+
+A summary of key segmentation approaches based on 3DGS.
 
 | Year   | Venue     | Acronym | Paper Title            |  Project/Code                                 |
 |---------------------|-----------|--------------------|---------------------------|-------------|
@@ -71,8 +121,9 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 
 
 
+## ✏️ Existing Method for 3DGS Editing
 
-# Overview of Existing Methods of Editing for 3DGS Semantic Scene Understanding
+Overview of methods that enable direct or indirect editing of 3DGS content.
 
 | Year | Venue | Acronym | Title | Project/Code |
 |------|-------|---------|-------|--------------|
@@ -136,7 +187,9 @@ Legend: *‘Centricity’ refers to scene and/or object-centric datasets, respec
 
 
 
-# Overview of Existing Methods of Generation for 3DGS Semantic Scene Understanding
+## 🎨 Existing Method for 3DGS Generation
+
+Discusses generation methods that produce 3DGS representations from multimodal inputs like text and image.
 
 | Year | Venue | Acronym | Title | Project/Code |
 |------|-------|---------|-------|---------|
