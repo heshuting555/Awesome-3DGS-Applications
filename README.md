@@ -16,7 +16,7 @@
 
 
 
-##📁 Existing Datasets for 3DGS Segmentation
+## 📁 Existing Datasets for 3DGS Segmentation
 
 This section summarizes commonly used datasets for segmentation tasks in 3D Gaussian Splatting.
 
