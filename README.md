@@ -7,7 +7,7 @@
 
 ## 📚 Table of Contents
 
-- [📁 Existing Datasets for 3DGS Segmentation](#-📁-existing-Datasets-for-3DGS-Segmentation)
+- [📁 Existing Datasets for 3DGS Segmentation](#-📁-existing-datasets-for-3dgs-segmentation)
 - [🗂️ Existing Datasets for 3DGS Editing](##-🗂️-existing-datasets-for-3dgs-editing)
 - [🧩 Existing Datasets for 3DGS Generation](#_🧩-existing-datasets-for-3dgs-generation)
 - [🛠️ Existing Method for 3DGS Segmentation](#🛠️-existing-method-for-3dgs-segmentation)
