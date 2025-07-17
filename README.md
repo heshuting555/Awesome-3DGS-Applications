@@ -8,12 +8,11 @@
 ## 📚 Table of Contents
 
 - [📁 Existing Datasets for 3DGS Segmentation](#existing-datasets-for-3dgs-segmentation)
-- [📁 Existing Datasets for 3DGS Segmentation](#existing-datasets-for-3dgs-segmentation)
-- [🗂️ Existing Datasets for 3DGS Editing](##-🗂️-existing-datasets-for-3dgs-editing)
-- [🧩 Existing Datasets for 3DGS Generation](#_🧩-existing-datasets-for-3dgs-generation)
-- [🛠️ Existing Method for 3DGS Segmentation](#🛠️-existing-method-for-3dgs-segmentation)
-- [✏️ Existing Method for 3DGS Editing](#✏️-existing-method-for-3dgs-editing)
-- [🎨 Existing Method for 3DGS Generation](#🎨-existing-method-for-3dgs-generation)
+- [🗂️ Existing Datasets for 3DGS Editing](#existing-datasets-for-3dgs-editing)
+- [🧩 Existing Datasets for 3DGS Generation](#existing-datasets-for-3dgs-generation)
+- [🛠️ Existing Method for 3DGS Segmentation](#existing-method-for-3dgs-segmentation)
+- [✏️ Existing Method for 3DGS Editing](#existing-method-for-3dgs-editing)
+- [🎨 Existing Method for 3DGS Generation](#existing-method-for-3dgs-generation)
 
 
 
