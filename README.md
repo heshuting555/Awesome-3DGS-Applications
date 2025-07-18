@@ -2,8 +2,10 @@
 💡 Welcome to the official repository of our journal paper.
 
 ## ✨ Introduction
-
-
+This survey presents the first detailed survey on 3DGS for high-level semantic scene tasks, including segmentation, editing and generation.
+<p align="center">
+  <img src="figs/survey_pipeline.png" width="100%">
+</p>
 
 ## 📚 Table of Contents
 
