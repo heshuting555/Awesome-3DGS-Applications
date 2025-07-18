@@ -54,19 +54,19 @@ This section introduces datasets suitable for 3D editing tasks.
 
 | Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
-| SPIn-NeRF | CVPR'23 | 10 | 100 | Providing challenging real-world scenes with views both with and without a target object. |
-| IN2N | ICCV'23 | 6 | 172 | Enabling structured and globally consistent 3D scene modifications while preserving the original scene's identity. |
-| BlendedMVS | CVPR'20 | 113 | 158 | A large-scale MVS dataset, which contains a total of 17,818 images. |
-| ScanNet++ | ICCV'23 | 460 | 608 | 280,000 captured DSLR images, and over 3.7M iPhone RGBD frames. |
-| DTU | CVPR'14 | 80 | 343 | Each scene consists of 49 or 64 accurate camera positions and reference structured light scans. |
-| Co3D | CVPR'21 | - | - | Consists of 1.5 million frames extracted from ~19,000 videos, covering 50 MS-COCO categories with camera poses and 3D point clouds. |
-| GL3D | ACCV'18 | 543 | 230 | Contains 125,623 high-res images captured by drones from various environments with geometric overlap. |
-| NeRFstudio | SIGGRAPH'23 | 10 | - | Includes 4 phone captures with pinhole lenses and 6 mirrorless camera captures with fisheye lenses. |
-| 360-USIDdataset | - | 7 | 300 | Includes 4 outdoor (Box, Cone, Lawn, Plant) and 3 indoor (Cookie, Sunflower, Dustpan) scenes. |
-| Mip-NeRF360 | CVPR'22 | 9 | 215 | 360° panoramic images from indoor and outdoor environments. |
-| LLFF | TOG'19 | 32 | 25 | Uses COLMAP SfM to compute poses for real images. |
-| Tanks and Temples | TOG'17 | 14 | - | Includes individual objects (e.g., Tank, Train) and large indoor scenes (e.g., Auditorium, Museum). |
-| NeRF-synthetic| ECCV'20 | 8 | 100 | Objects on white backgrounds with 800×800 images and camera poses. |
+| [SPIn-NeRF](https://arxiv.org/abs/2211.12254) | CVPR'23 | 10 | 100 | Providing challenging real-world scenes with views both with and without a target object. |
+| [IN2N](https://arxiv.org/abs/2303.12789) | ICCV'23 | 6 | 172 | Enabling structured and globally consistent 3D scene modifications while preserving the original scene's identity. |
+| [BlendedMVS](https://arxiv.org/abs/1911.10127) | CVPR'20 | 113 | 158 | A large-scale MVS dataset, which contains a total of 17,818 images. |
+| [ScanNet++](https://arxiv.org/abs/2308.11417) | ICCV'23 | 460 | 608 | 280,000 captured DSLR images, and over 3.7M iPhone RGBD frames. |
+| [DTU](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Jensen_Large_Scale_Multi-view_2014_CVPR_paper.html) | CVPR'14 | 80 | 343 | Each scene consists of 49 or 64 accurate camera positions and reference structured light scans. |
+| [Co3D](https://arxiv.org/abs/2109.00512) | CVPR'21 | - | - | Consists of 1.5 million frames extracted from ~19,000 videos, covering 50 MS-COCO categories with camera poses and 3D point clouds. |
+| [GL3D](https://arxiv.org/abs/1811.10343) | ACCV'18 | 543 | 230 | Contains 125,623 high-res images captured by drones from various environments with geometric overlap. |
+| [NeRFstudio](https://arxiv.org/abs/2302.04264) | SIGGRAPH'23 | 10 | - | Includes 4 phone captures with pinhole lenses and 6 mirrorless camera captures with fisheye lenses. |
+| [360-USIDdataset](https://openreview.net/forum?id=AMVLOv30Qg) | ArXiv'25 | 7 | 300 | Includes 4 outdoor (Box, Cone, Lawn, Plant) and 3 indoor (Cookie, Sunflower, Dustpan) scenes. |
+| [Mip-NeRF360](https://arxiv.org/abs/2111.12077) | CVPR'22 | 9 | 215 | 360° panoramic images from indoor and outdoor environments. |
+| [LLFF](https://arxiv.org/abs/1905.00889) | TOG'19 | 32 | 25 | Uses COLMAP SfM to compute poses for real images. |
+| [Tanks and Temples](https://dl.acm.org/doi/abs/10.1145/3072959.3073599) | TOG'17 | 14 | - | Includes individual objects (e.g., Tank, Train) and large indoor scenes (e.g., Auditorium, Museum). |
+| [NeRF-synthetic](https://arxiv.org/abs/2003.08934)| ECCV'20 | 8 | 100 | Objects on white backgrounds with 800×800 images and camera poses. |
 
 
 ## 🧩 Existing Datasets for 3DGS Generation
@@ -75,18 +75,18 @@ This section covers datasets used for 3DGS-based generation tasks.
 
 | Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
-| LAION-5B | NeurIPS'22 | Text-to-3D | - | LAION-5B's key feature is its vast scale, with 5.85 billion image-text pairs. |
-| Objaverse | CVPR'23 | Image & Text-to-3D | 800K | Objaverse has a vast scale of 800K+ 3D models with rich annotations. |
-| OmniObject3D | CVPR'23 | Image-to-3D | 6K | A large-scale collection of high-quality real-scanned 3D objects with rich 2D and 3D annotations. |
-| NYUdepth| ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
-| ShapeNet | arXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
-| GSO | ICRA'22 | Image & Text-to-3D | 1030 | Comprises 3D scanned common household items. |
-| Replica | arXiv'19 | Image-to-3D | 18 | A 3D indoor scene dataset featuring dense meshes, HDR textures, and semantic labels. |
-| RealEstate10K | SIGGRAPH'18 | Image-to-3D | 80K | Comprises home walkthrough videos from YouTube. |
-| ACID | ICCV'21 | Image-to-3D | 13,047 | Features aerial landscape videos, includes 11,075 training scenes and 1,972 testing scenes. |
-| ScanNet | CVPR'17 | Image-to-3D | 1513 | Contains 2.5M views in 1513 indoor scenes annotated with 3D camera poses. |
-| LOM | AAAI'24 | Image-to-3D | 5 | Includes 5 real-world scenes, each with 25–48 sRGB images captured in difficult lighting. |
-| G-objaverse | ECCV'24 | Image & Text-to-3D | 280K | Contains 10 general classes totaling about 280K samples. |
+| [LAION-5B](https://arxiv.org/abs/2210.08402) | NeurIPS'22 | Text-to-3D | - | LAION-5B's key feature is its vast scale, with 5.85 billion image-text pairs. |
+| [Objaverse](https://arxiv.org/abs/2212.08051) | CVPR'23 | Image & Text-to-3D | 800K | Objaverse has a vast scale of 800K+ 3D models with rich annotations. |
+| [OmniObject3D](https://arxiv.org/abs/2301.07525) | CVPR'23 | Image-to-3D | 6K | A large-scale collection of high-quality real-scanned 3D objects with rich 2D and 3D annotations. |
+| [NYUdepth](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf)| ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
+| [ShapeNet](https://arxiv.org/abs/1512.03012) | arXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
+| [GSO](https://arxiv.org/abs/2204.11918) | ICRA'22 | Image & Text-to-3D | 1030 | Comprises 3D scanned common household items. |
+| [Replica](https://arxiv.org/pdf/1906.05797) | arXiv'19 | Image-to-3D | 18 | A 3D indoor scene dataset featuring dense meshes, HDR textures, and semantic labels. |
+| [RealEstate10K](https://arxiv.org/abs/1805.09817) | SIGGRAPH'18 | Image-to-3D | 80K | Comprises home walkthrough videos from YouTube. |
+| [ACID](https://arxiv.org/abs/2012.09855) | ICCV'21 | Image-to-3D | 13,047 | Features aerial landscape videos, includes 11,075 training scenes and 1,972 testing scenes. |
+| [ScanNet](https://arxiv.org/abs/1702.04405) | CVPR'17 | Image-to-3D | 1513 | Contains 2.5M views in 1513 indoor scenes annotated with 3D camera poses. |
+| [LOM](https://arxiv.org/abs/2312.09093) | AAAI'24 | Image-to-3D | 5 | Includes 5 real-world scenes, each with 25–48 sRGB images captured in difficult lighting. |
+| [G-objaverse](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_4) | ECCV'24 | Image & Text-to-3D | 280K | Contains 10 general classes totaling about 280K samples. |
 
 
 
