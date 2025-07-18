@@ -79,9 +79,9 @@ This section covers datasets used for 3DGS-based generation tasks.
 | [Objaverse](https://arxiv.org/abs/2212.08051) | CVPR'23 | Image & Text-to-3D | 800K | Objaverse has a vast scale of 800K+ 3D models with rich annotations. |
 | [OmniObject3D](https://arxiv.org/abs/2301.07525) | CVPR'23 | Image-to-3D | 6K | A large-scale collection of high-quality real-scanned 3D objects with rich 2D and 3D annotations. |
 | [NYUdepth](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf)| ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
-| [ShapeNet](https://arxiv.org/abs/1512.03012) | arXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
+| [ShapeNet](https://arxiv.org/abs/1512.03012) | ArXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
 | [GSO](https://arxiv.org/abs/2204.11918) | ICRA'22 | Image & Text-to-3D | 1030 | Comprises 3D scanned common household items. |
-| [Replica](https://arxiv.org/pdf/1906.05797) | arXiv'19 | Image-to-3D | 18 | A 3D indoor scene dataset featuring dense meshes, HDR textures, and semantic labels. |
+| [Replica](https://arxiv.org/pdf/1906.05797) | ArXiv'19 | Image-to-3D | 18 | A 3D indoor scene dataset featuring dense meshes, HDR textures, and semantic labels. |
 | [RealEstate10K](https://arxiv.org/abs/1805.09817) | SIGGRAPH'18 | Image-to-3D | 80K | Comprises home walkthrough videos from YouTube. |
 | [ACID](https://arxiv.org/abs/2012.09855) | ICCV'21 | Image-to-3D | 13,047 | Features aerial landscape videos, includes 11,075 training scenes and 1,972 testing scenes. |
 | [ScanNet](https://arxiv.org/abs/1702.04405) | CVPR'17 | Image-to-3D | 1513 | Contains 2.5M views in 1513 indoor scenes annotated with 3D camera poses. |
