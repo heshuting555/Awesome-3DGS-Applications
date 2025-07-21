@@ -30,7 +30,7 @@ This section summarizes commonly used datasets for segmentation tasks in 3D Gaus
 |[SPIn-NeRF](https://arxiv.org/abs/2211.12254) | CVPR'23 | 10 | 100  | Providing challenging real-world scenes with views both with and without a target object.|
 |[Mip-NeRF 360](https://arxiv.org/abs/2111.12077) | CVPR'22 | 9 | 215 | Focusing on capturing complex lighting, geometry, and texture details.|
 |[3D-OVS](https://arxiv.org/abs/2305.14093) | NeurIPS'23 | 10 | 30 | Including high-quality 3D objects spanning diverse categories with language-aligned semantic labels.|
-|[LERF-Mask](https://arxiv.org/abs/2312.00732) | ECCV'24 | 3 | 200 | Containing semantic annotations of three scenes from LERF dataset~\cite{LERF} with a total of 23 prompts.|
+|[LERF-Mask](https://arxiv.org/abs/2312.00732) | ECCV'24 | 3 | 200 | Containing semantic annotations of three scenes from LERF dataset with a total of 23 prompts.|
 |[NVOS](https://arxiv.org/abs/2103.05606) | CVPR'21 | 8 | 36 | Built on LLFF with undistorted images, annotated with masks and scribbles for segmentation tasks.| 
 |[Ref-LERF](https://openreview.net/forum?id=reuShgiHdg)| ICML'25 | 4 | 200 | Focusing on spatial relationships, annotated with natural language expressions for referring 3DGS segmentation.|
 
@@ -113,7 +113,7 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | AAAI | FastLGS | [ FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping](http://arxiv.org/abs/2406.01916) | [Code](https://george-attano.github.io/FastLGS/)|
 | 2024 | ECCV | EgoLifter | [ EgoLifter: Open-world 3D Segmentation for Egocentric Perception](http://arxiv.org/abs/2403.18118) | [Code](https://egolifter.github.io/) |
 | 2024 | ECCV | Click-Gaussian | [ Click-Gaussian: Interactive Segmentation to Any 3D Gaussians](https://arxiv.org/abs/2407.11793) | [Code](https://seokhunchoi.github.io/Click-Gaussian/) |
-| 2024 | N/A | CGC | [ Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation](https://arxiv.org/abs/2404.12784) | ❌ |
+| 2024 | ICPR | CGC | [ Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation](https://arxiv.org/abs/2404.12784) | ❌ |
 | 2025 | CVPR | InstanceGaussian | [ InstanceGaussian: Appearance-Semantic Joint Gaussian Representation for 3D Instance-Level Perception](https://arxiv.org/abs/2411.19235) | [Code](https://lhj-git.github.io/InstanceGaussian/) |
 | 2024 | ECCV | N2F2 | [ N2F2: Hierarchical Scene Understanding with Nested Neural Feature Fields](https://arxiv.org/abs/2403.10997) | ❌ |
 | 2025 | AAAI | SAGA | [ Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [Code](https://jumpat.github.io/SAGA/) |
