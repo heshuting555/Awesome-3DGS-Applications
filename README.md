@@ -75,6 +75,7 @@ This section covers datasets used for 3DGS-based generation tasks.
 
 | Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
+| [NYUdepth](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf)| ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
 | [ShapeNet](https://arxiv.org/abs/1512.03012) | ArXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
 | [ScanNet](https://arxiv.org/abs/1702.04405) | CVPR'17 | Image-to-3D | 1513 | Contains 2.5M views in 1513 indoor scenes annotated with 3D camera poses. |
 | [RealEstate10K](https://arxiv.org/abs/1805.09817) | SIGGRAPH'18 | Image-to-3D | 80K | Comprises home walkthrough videos from YouTube. |
@@ -84,7 +85,6 @@ This section covers datasets used for 3DGS-based generation tasks.
 | [LAION-5B](https://arxiv.org/abs/2210.08402) | NeurIPS'22 | Text-to-3D | - | LAION-5B's key feature is its vast scale, with 5.85 billion image-text pairs. |
 | [Objaverse](https://arxiv.org/abs/2212.08051) | CVPR'23 | Image & Text-to-3D | 800K | Objaverse has a vast scale of 800K+ 3D models with rich annotations. |
 | [OmniObject3D](https://arxiv.org/abs/2301.07525) | CVPR'23 | Image-to-3D | 6K | A large-scale collection of high-quality real-scanned 3D objects with rich 2D and 3D annotations. |
-| [NYUdepth](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf)| ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
 | [LOM](https://arxiv.org/abs/2312.09093) | AAAI'24 | Image-to-3D | 5 | Includes 5 real-world scenes, each with 25–48 sRGB images captured in difficult lighting. |
 | [G-objaverse](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_4) | ECCV'24 | Image & Text-to-3D | 280K | Contains 10 general classes totaling about 280K samples. |
 
@@ -100,7 +100,6 @@ A summary of key segmentation approaches based on 3DGS.
 | Year   | Venue     | Acronym | Paper Title            |  Project/Code                                 |
 |---------------------|-----------|--------------------|---------------------------|-------------|
 | 2023 | NeurIPS  | SA3D | [ Segment Anything in 3D with Radiance Fields](http://arxiv.org/abs/2304.12308) |[Code](https://github.com/Jumpat/SegmentAnythingin3D) |
-
 | 2024 | CVPR |   LangSplat   |        [LangSplat: 3D Language Gaussian Splatting](http://arxiv.org/abs/2312.16084)   |   [Code](https://langsplat.github.io/)    |
 | 2024 | CVPR   | OmniSeg3D | [OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning](https://arxiv.org/abs/2311.11666) | [Code](https://github.com/OceanYing/OmniSeg3D-GS) |
 | 2024 | CVPR |   Feature 3DGS   |     [Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields](http://arxiv.org/abs/2312.03203)       | [Code](https://feature-3dgs.github.io/) |
@@ -130,7 +129,6 @@ A summary of key segmentation approaches based on 3DGS.
 | 2024 | ArXiv  | Gaga | [ Gaga: Group Any Gaussians via 3D-aware Memory Bank](https://arxiv.org/abs/2404.07977) | [Code](https://www.gaga.gallery/) |
 | 2024 | ECCV  | FlashSplat| [ FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](http://arxiv.org/abs/2409.08270) | [Code](https://github.com/florinshen/FlashSplat) |
 | 2024 | ArXiv   | SA4D| [ Segment Any 4D Gaussians](https://arxiv.org/abs/2407.04504) | [Code](https://jsxzs.github.io/sa4d/) |
-
 | 2025 | CVPR   | Unified-Lift| [Rethinking End-to-End 2D to 3D Scene Segmentation in Gaussian Splatting](https://arxiv.org/abs/2503.14029) | [Code](https://github.com/Runsong123/Unified-Lift) |
 | 2025 | CVPR   | COB-GS| [COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting](https://arxiv.org/abs/2503.19443) | [Code](https://github.com/ZestfulJX/COB-GS) |
 | 2025 | ArXiv   | THGS | [Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs](https://arxiv.org/abs/2504.13153) | [Code](https://github.com/Atrovast/THGS) |
@@ -207,7 +205,6 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | ArXiv        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2024 | ECCV       | -         | [View-consistent 3d editing with gaussian splatting](https://link.springer.com/chapter/10.1007/978-3-031-72761-0_23) | [Code](https://vcedit.github.io/) |
 | 2024 | ECCV       | WaSt-3D     | [Wast-3d: Wasserstein-2 distance for scene-to-scene stylization on 3d gaussians](https://link.springer.com/chapter/10.1007/978-3-031-72664-4_17) | [Code](https://compvis.github.io/wast3d/) |
-
 | 2025 | ICLR | DreamCatalyst | [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [Code](https://dream-catalyst.github.io/) |
 | 2025 | ArXiv       | -         | [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [Code](https://quyans.github.io/Drag-Your-Gaussian/) |
 | 2025 | AI        | Dragen3D     | [Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control](https://arxiv.org/abs/2502.16475) | ❌ |
@@ -230,7 +227,6 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2023 | ArXiv   | CG3D | [Cg3d: Compositional generation for text-to-3d via gaussian splatting](https://arxiv.org/abs/2311.17907) | [Code](https://asvilesov.github.io/CG3D/) |
 | 2023 | ArXiv   | Text2Immersion | [Text2immersion: Generative immersive scene with 3d gaussians](https://arxiv.org/abs/2312.09242) | [Code](https://ken-ouyang.github.io/text2immersion/index.html) |
 | 2023 | ICCV  | Text2Room | [Text2room: Extracting textured 3d meshes from 2d text-to-image models](http://openaccess.thecvf.com/content/ICCV2023/html/Hollein_Text2Room_Extracting_Textured_3D_Meshes_from_2D_Text-to-Image_Models_ICCV_2023_paper.html) | [Code](https://lukashoel.github.io/text-to-room/) |
-
 | 2024 | ArXiv   | GraphCanvas | [Graph Canvas for Controllable 3D Scene Generation](https://arxiv.org/abs/2412.00091) | [Code](https://github.com/ILGLJ/Graph-Canvas) |
 | 2024 | ArXiv   | LayerPano3D | [Layerpano3d: Layered 3d panorama for hyper-immersive scene generation](https://arxiv.org/abs/2408.13252) | [Code](https://layerpano3d-web.github.io/) |
 | 2024 | ArXiv   | SceneDreamer360 | [Scenedreamer360: Text-driven 3d-consistent scene generation with panoramic gaussian splatting](https://arxiv.org/abs/2408.13711) | [Code](https://github.com/liwrui/SceneDreamer360) |
@@ -292,7 +288,6 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2024 | ArXiv    | GeoGS3D          | [GeoGS3D: Single-view 3D Reconstruction via Geometric-aware Diffusion Model and Gaussian Splatting](https://arxiv.org/abs/2403.10242) | [Code](https://qjfeng.net/GeoGS3D/) |
 | 2024 | ACM MM  | DreamInit        | [A general framework to boost 3d gs initialization for text-to-3d generation by lexical richness](https://dl.acm.org/doi/abs/10.1145/3664647.3680740) | [Code](https://vlislab22.github.io/DreamInit/) |
 | 2024 | ArXiv    | NovelGS          | [NovelGS: Consistent Novel-view Denoising via Large Gaussian Reconstruction Model](https://arxiv.org/abs/2411.16779) | ❌ |
-
 | 2025 | ICLR   | LayoutYour3D | [Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint](https://arxiv.org/abs/2410.15391) | [Code](https://colezwhy.github.io/layoutyour3d/) |
 | 2025 | AAAI    | Cycle3D          | [Cycle3d: High-quality and consistent image-to-3d generation via generation-reconstruction cycle](https://arxiv.org/abs/2407.19548) | [Code](https://pku-yuangroup.github.io/Cycle3D/) |
 | 2025 | ICCV    | DiffusionGS      | [Baking gaussian splatting into diffusion denoiser for fast and scalable single-stage image-to-3d generation](https://arxiv.org/abs/2411.14384) | [Code](https://caiyuanhao1998.github.io/project/DiffusionGS/) |
