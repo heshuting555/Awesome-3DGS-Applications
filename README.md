@@ -1,5 +1,23 @@
-# 🔍 A Survey on 3D Gaussian Splatting for High-Level Semantic Scene Tasks: Segmentation, Editing and Generation
+# 🔍 A Survey on 3D Gaussian Splatting in Segmentation, Editing and Generation
+<p align="center">
+    <a href="https://heshuting555.github.io/"><strong>Shuting He </strong></a>
+   ·
+    <a href=""><strong> Peilin Ji </strong></a>
+    ·
+    <a href=""><strong>Yitong Yang </strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=dsV9sgwAAAAJ&hl=zh-CN"><strong>Changshuo Wang </strong></a>
+    ·
+    <a href="https://scholar.google.com/citations?user=xp_rICcAAAAJ&hl=zh-CN"><strong>Jiayi Ji</strong></a>
+    ·
+    <a href="http://simecv.sufe.edu.cn/page.aspx?id=80"><strong>Yinglin Wang</strong></a>
+    ·
+    <a href="https://henghuiding.github.io/"><strong>Henghui Ding</strong></a>
+  </p>
+
 💡 Welcome to the official repository of our journal paper.
+
+📌 Please feel free to pull requests for any possibly missed wonderful work.
 
 ## ✨ Introduction
 This survey presents the first detailed survey on 3DGS for high-level semantic scene tasks, including segmentation, editing and generation.
@@ -7,16 +25,19 @@ This survey presents the first detailed survey on 3DGS for high-level semantic s
   <img src="figs/survey_pipeline.png" width="100%">
 </p>
 
+
 ## 📚 Table of Contents
 
 - [📁 Existing Datasets for 3DGS Segmentation](#-existing-datasets-for-3dgs-segmentation)
 - [🗂️ Existing Datasets for 3DGS Editing](#%EF%B8%8F-existing-datasets-for-3dgs-editing)
 - [🧩 Existing Datasets for 3DGS Generation](#-existing-datasets-for-3dgs-generation)
-- [🛠️ Existing Method for 3DGS Segmentation](#%EF%B8%8F-existing-method-for-3dgs-segmentation)
-- [✏️ Existing Method for 3DGS Editing](#%EF%B8%8F-existing-method-for-3dgs-editing)
-- [🎨 Existing Method for 3DGS Generation](#-existing-method-for-3dgs-generation)
+- [🛠️ Existing Methods for 3DGS Segmentation](#%EF%B8%8F-existing-method-for-3dgs-segmentation)
+- [✏️ Existing Methods for 3DGS Editing](#%EF%B8%8F-existing-method-for-3dgs-editing)
+- [🎨 Existing Methods for 3DGS Generation](#-existing-method-for-3dgs-generation)
 
+- [⛳ Related Survey](#-related-survey)
 
+- [📢 Citation](#-citation)
 
 ## 📁 Existing Datasets for 3DGS Segmentation
 
@@ -33,18 +54,6 @@ This section summarizes commonly used datasets for segmentation tasks in 3D Gaus
 | [LERF-OVS](https://arxiv.org/abs/2312.16084) | CVPR'24 | 4 | 200 | An extended version of LERF dataset with ground truth mask annotations for open-vocabulary segmentation.|
 |[LERF-Mask](https://arxiv.org/abs/2312.00732) | ECCV'24 | 3 | 200 | Containing semantic annotations of three scenes from LERF dataset with a total of 23 prompts.|
 |[Ref-LERF](https://openreview.net/forum?id=reuShgiHdg)| ICML'25 | 4 | 200 | Focusing on spatial relationships, annotated with natural language expressions for referring 3DGS segmentation.|
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -69,6 +78,7 @@ This section introduces datasets suitable for 3D editing tasks.
 | [360-USIDdataset](https://openreview.net/forum?id=AMVLOv30Qg) | ArXiv'25 | 7 | 300 | Includes 4 outdoor (Box, Cone, Lawn, Plant) and 3 indoor (Cookie, Sunflower, Dustpan) scenes. |
 
 
+
 ## 🧩 Existing Datasets for 3DGS Generation
 
 This section covers datasets used for 3DGS-based generation tasks.
@@ -91,25 +101,23 @@ This section covers datasets used for 3DGS-based generation tasks.
 
 
 
-
-
-## 🛠️ Existing Method for 3DGS Segmentation
+## 🛠️ Existing Methods for 3DGS Segmentation
 
 A summary of key segmentation approaches based on 3DGS.
 
-| Year   | Venue     | Acronym | Paper Title            |  Project/Code                                 |
+| Year   | Venue     | Paper Abbr | Paper Title            |  Project/Code                                 |
 |---------------------|-----------|--------------------|---------------------------|-------------|
 | 2023 | NeurIPS  | SA3D | [ Segment Anything in 3D with Radiance Fields](http://arxiv.org/abs/2304.12308) |[Code](https://github.com/Jumpat/SegmentAnythingin3D) |
 | 2024 | CVPR |   LangSplat   |        [LangSplat: 3D Language Gaussian Splatting](http://arxiv.org/abs/2312.16084)   |   [Code](https://langsplat.github.io/)    |
 | 2024 | CVPR   | OmniSeg3D | [OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning](https://arxiv.org/abs/2311.11666) | [Code](https://github.com/OceanYing/OmniSeg3D-GS) |
 | 2024 | CVPR |   Feature 3DGS   |     [Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields](http://arxiv.org/abs/2312.03203)       | [Code](https://feature-3dgs.github.io/) |
-| 2024 | CVPR |  LEGaussian |[Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding](http://arxiv.org/abs/2311.18482) | [Code](https://buaavrcg.github.io/LEGaussians) | 
+| 2024 | CVPR |  LEGaussian |[Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding](http://arxiv.org/abs/2311.18482) | [Code](https://buaavrcg.github.io/LEGaussians) |
 | 2024 | ACM MM | GOI  | [GOI: Find 3D Gaussians of Interest with an Optimizable Open-vocabulary Semantic-space Hyperplane](http://arxiv.org/abs/2405.17596)  | [Code](https://quyans.github.io/GOI-Hyperplane/) |
 | 2024 | ArXiv | GS3 | [ Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting](https://arxiv.org/abs/2411.18667) | ❌ |
 | 2024 | IJCV | FMGS |[ FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding](http://arxiv.org/abs/2401.01970)  | [Code](https://xingxingzuo.github.io/fmgs/) |
 | 2024 | ECCV | FiT3D | [ Improving 2D Feature Representations by 3D-Aware Fine-Tuning](http://arxiv.org/abs/2407.20229) | [Code](https://ywyue.github.io/FiT3D) |
 | 2024 | NeurIPS | OpenGaussian | [ OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding](http://arxiv.org/abs/2406.02058) | [Code](https://3d-aigc.github.io/OpenGaussian) |
-| 2024 | ArXiv | DCSEG | [ DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting](http://arxiv.org/abs/2412.10972) | [Code](https://github.com/lusxvr/dcseg)  | 
+| 2024 | ArXiv | DCSEG | [ DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting](http://arxiv.org/abs/2412.10972) | [Code](https://github.com/lusxvr/dcseg)  |
 | 2024 | ArXiv | SuperGSeg | [ SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians](http://arxiv.org/abs/2412.10231) | ❌ |
 | 2024 | ECCV | EgoLifter | [ EgoLifter: Open-world 3D Segmentation for Egocentric Perception](http://arxiv.org/abs/2403.18118) | [Code](https://egolifter.github.io/) |
 | 2024 | ECCV | Click-Gaussian | [ Click-Gaussian: Interactive Segmentation to Any 3D Gaussians](https://arxiv.org/abs/2407.11793) | [Code](https://seokhunchoi.github.io/Click-Gaussian/) |
@@ -152,11 +160,11 @@ A summary of key segmentation approaches based on 3DGS.
 
 
 
-## ✏️ Existing Method for 3DGS Editing
+## ✏️ Existing Methods for 3DGS Editing
 
 Overview of methods that enable direct or indirect editing of 3DGS content.
 
-| Year | Venue | Acronym | Title | Project/Code |
+| Year | Venue | Paper Abbr | Title | Project/Code |
 |------|-------|---------|-------|--------------|
 | 2024 | ECCV | GaussianGrouping | [Gaussian grouping: Segment and edit anything in 3d scenes](https://link.springer.com/chapter/10.1007/978-3-031-73397-0_10) | [Code](https://langsplat.github.io/) |
 | 2024 | ACM TOG | TIP-Editor | [Tip-editor: An accurate 3d editor following both text-prompts and image-prompts](https://dl.acm.org/doi/abs/10.1145/3658205) | [Code](https://zjy526223908.github.io/TIP-Editor/) |
@@ -216,13 +224,13 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 
 
 
-## 🎨 Existing Method for 3DGS Generation
+## 🎨 Existing Methods for 3DGS Generation
 
 Discusses generation methods that produce 3DGS representations from multimodal inputs like text and image.
 
-| Year | Venue | Acronym | Title | Project/Code |
+| Year | Venue | Paper Abbr | Title | Project/Code |
 |------|-------|---------|-------|---------|
-| 2023 | ArXiv    | Luciddreamer     | [Luciddreamer: Domain-free generation of 3d gaussian splatting scenes](https://arxiv.org/abs/2311.13384) | [Code](https://github.com/luciddreamer-cvlab/LucidDreamer) || 2025 | ICLR    | -              | [Multi-view Geometry-Aware Diffusion Transformer for Indoor Novel View Synthesis](https://openreview.net/forum?id=8hpJBfBjlZ) | ❌ |
+| 2023 | ArXiv    | Luciddreamer     | [Luciddreamer: Domain-free generation of 3d gaussian splatting scenes](https://arxiv.org/abs/2311.13384) | [Code](https://github.com/luciddreamer-cvlab/LucidDreamer) |
 | 2023 | ArXiv   | StableDreamer | [Stabledreamer: taming noisy score distillation sampling for text-to-3d](https://arxiv.org/abs/2312.02189) | ❌ |
 | 2023 | ArXiv   | CG3D | [Cg3d: Compositional generation for text-to-3d via gaussian splatting](https://arxiv.org/abs/2311.17907) | [Code](https://asvilesov.github.io/CG3D/) |
 | 2023 | ArXiv   | Text2Immersion | [Text2immersion: Generative immersive scene with 3d gaussians](https://arxiv.org/abs/2312.09242) | [Code](https://ken-ouyang.github.io/text2immersion/index.html) |
@@ -274,7 +282,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2024 | ArXiv   | GECO             | [GECO: Generative Image-to-3D within a SECOnd](https://arxiv.org/abs/2405.20327) | N/A |
 | 2024 | NeurIPS| ProlificDreamer  | [Prolificdreamer: High-fidelity and diverse text-to-3d generation with variational score distillation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1a87980b9853e84dfb295855b425c262-Abstract-Conference.html) | [Code](https://ml.cs.tsinghua.edu.cn/prolificdreamer/) |
 | 2024 | ArXiv    | DreamPhysics     | [Dreamphysics: Learning physical properties of dynamic 3d gaussians with video diffusion priors](https://arxiv.org/abs/2406.01476) | [Code](https://github.com/tyhuang0428/DreamPhysics) |
-| 2024 | NeurIPS | DiffGS           | [Diffgs: Functional gaussian splatting diffusion](https://proceedings.neurips.cc/paper_files/paper/2024/hash/41fb2ecb5b7d1b505bca787de0a603dc-Abstract-Conference.html) | [Code](https://junshengzhou.github.io/DiffGS/) || 2025 | CVPR    | Splatter-360     | [Splatter-360: Generalizable 360 Gaussian Splatting for Wide-baseline Panoramic Images](https://arxiv.org/abs/2412.06250) | [Code](https://3d-aigc.github.io/Splatter-360/) |
+| 2024 | NeurIPS | DiffGS           | [Diffgs: Functional gaussian splatting diffusion](https://proceedings.neurips.cc/paper_files/paper/2024/hash/41fb2ecb5b7d1b505bca787de0a603dc-Abstract-Conference.html) | [Code](https://junshengzhou.github.io/DiffGS/) |
 | 2024 | TMLR    | AGG              | [Agg: Amortized generative 3d gaussians for single image to 3d](https://arxiv.org/abs/2401.04099) | [Code](https://ir1d.github.io/AGG/) |
 | 2024 | NeurIPS | HumanSplat       | [Humansplat: Generalizable single-image human gaussian splatting with structure priors](https://proceedings.neurips.cc/paper_files/paper/2024/hash/87affd2029375d1be123ccdab5334c55-Abstract-Conference.html) | [Code](https://humansplat.github.io/) |
 | 2024 | CVPR   | TriplaneGaussian | [Triplane meets gaussian splatting: Fast and generalizable single-view 3d reconstruction with transformers](http://openaccess.thecvf.com/content/CVPR2024/html/Zou_Triplane_Meets_Gaussian_Splatting_Fast_and_Generalizable_Single-View_3D_Reconstruction_CVPR_2024_paper.html) | [Code](https://zouzx.github.io/TriplaneGaussian/) |
@@ -300,3 +308,39 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
 | 2025 | ICLR   | GaussianAnything    | [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033) | [Code](https://nirvanalan.github.io/projects/ga/) |
 | 2025 | CVPR   | Turbo3D             | [Turbo3D: Ultra-fast Text-to-3D Generation](https://arxiv.org/abs/2412.04470) | [Code](https://turbo-3d.github.io/) |
+
+
+
+## ⛳ Related Survey
+
+[A Survey on 3D Gaussian Splatting](https://arxiv.org/abs/2401.03890)
+
+[3D Gaussian Splatting as a New Era: A Survey](https://arxiv.org/abs/2402.07181)
+
+[Recent Advances in 3D Gaussian Splatting](https://arxiv.org/abs/2403.11134)
+
+[Gaussian Splatting: 3D Reconstruction and Novel View Synthesis, a Review](https://arxiv.org/abs/2405.03417)
+
+[3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities](https://arxiv.org/abs/2407.17418)
+
+[3DGS.zip: A survey on 3D Gaussian Splatting Compression Methods](https://arxiv.org/abs/2407.09510)
+
+[3D Gaussian Splatting in Robotics: A Survey](https://arxiv.org/abs/2410.12262)
+
+[Compression in 3D Gaussian Splatting: A Survey of Methods, Trends, and Future Directions](https://arxiv.org/abs/2502.19457)
+
+
+
+## 📢 Citation
+
+If you find this survey helpful, please consider citing it in your work. Thank you for your support!
+
+```
+@article{he2025survey,
+  title={A Survey on 3D Gaussian Splatting in Segmentation, Editing and Generation},
+  author={He, Shuting and Ji, Peilin and Yang, Yitong and Wang, Changshuo and Ji, Jiayi and Wang, Yinglin and Ding, Henghui},
+  journal={arXiv preprint arXiv:2507.xxxxx},
+  year={2025}
+}
+```
+
