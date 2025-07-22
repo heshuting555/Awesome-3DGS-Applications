@@ -34,7 +34,7 @@ This survey presents the first detailed survey on 3DGS for high-level semantic s
 - [🛠️ Existing Methods for 3DGS Segmentation](#%EF%B8%8F-existing-methods-for-3dgs-segmentation)
 - [✏️ Existing Methods for 3DGS Editing](#%EF%B8%8F-existing-methods-for-3dgs-editing)
 - [🎨 Existing Methods for 3DGS Generation](#-existing-methods-for-3dgs-generation)
-- [🎖 Other Application Tasks](#-other-application-tasks)
+- [🎖 Other Application Tasks](#other-application-tasks)
   - [Human Avatar](#human-avatar)
   - [SLAM](#slam)
   - [3DGS Detection](#3dgs-detection)
