@@ -1,4 +1,4 @@
-# 🔍 A Survey on 3D Gaussian Splatting in Segmentation, Editing and Generation
+# 🔍 A Survey on 3D Gaussian Splatting Applications: Segmentation, Editing, and Generation
 <p align="center">
     <a href="https://heshuting555.github.io/"><strong>Shuting He </strong></a>
    ·
@@ -34,6 +34,10 @@ This survey presents the first detailed survey on 3DGS for high-level semantic s
 - [🛠️ Existing Methods for 3DGS Segmentation](#%EF%B8%8F-existing-methods-for-3dgs-segmentation)
 - [✏️ Existing Methods for 3DGS Editing](#%EF%B8%8F-existing-methods-for-3dgs-editing)
 - [🎨 Existing Methods for 3DGS Generation](#-existing-methods-for-3dgs-generation)
+- [🎖 Other Application Tasks](#-other-application-tasks)
+  - [Human Avatar](#human-avatar)
+  - [SLAM](#slam)
+  - [3DGS Detection](#3dgs-detection)
 - [⛳ Related Survey](#-related-survey)
 - [📢 Citation](#-citation)
 
@@ -306,6 +310,14 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
 | 2025 | ICLR   | GaussianAnything    | [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033) | [Code](https://nirvanalan.github.io/projects/ga/) |
 | 2025 | CVPR   | Turbo3D             | [Turbo3D: Ultra-fast Text-to-3D Generation](https://arxiv.org/abs/2412.04470) | [Code](https://turbo-3d.github.io/) |
+
+## 🎖Other Application Tasks
+
+### Human Avatar
+
+### SLAM
+
+### 3DGS Detection
 
 
 
