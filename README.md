@@ -31,9 +31,9 @@ This survey presents the first detailed survey on 3DGS for high-level semantic s
 - [📁 Existing Datasets for 3DGS Segmentation](#-existing-datasets-for-3dgs-segmentation)
 - [🗂️ Existing Datasets for 3DGS Editing](#-existing-datasets-for-3dgs-editing)
 - [🧩 Existing Datasets for 3DGS Generation](#-existing-datasets-for-3dgs-generation)
-- [🛠️ Existing Methods for 3DGS Segmentation](#-existing-method-for-3dgs-segmentation)
-- [✏️ Existing Methods for 3DGS Editing](#-existing-method-for-3dgs-editing)
-- [🎨 Existing Methods for 3DGS Generation](#-existing-method-for-3dgs-generation)
+- [🛠️ Existing Methods for 3DGS Segmentation](#-existing-methods-for-3dgs-segmentation)
+- [✏️ Existing Methods for 3DGS Editing](#-existing-methods-for-3dgs-editing)
+- [🎨 Existing Methods for 3DGS Generation](#-existing-methods-for-3dgs-generation)
 - [⛳ Related Survey](#-related-survey)
 - [📢 Citation](#-citation)
 
