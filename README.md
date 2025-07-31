@@ -337,7 +337,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | Year | Venue | Paper Abbr | Title | Project/Code |
 |------|-------|---------|-------|---------|
 |2025|ICCV|DynaGSLAM|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/abs/2503.11979) |❌|
-|2024|ICLR|Gaussian-Det|[Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection](https://arxiv.org/abs/2410.01404) |❌|
+|2025|ICCV|S3PO-GS|[Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/abs/2507.03737) |[Code](https://3dagentworld.github.io/S3PO-GS/)|
 |2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://zhenyangliu.github.io/SpatialReasoner/) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
 |2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
 
