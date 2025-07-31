@@ -324,11 +324,13 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2024|CVPR|HUGS|[HUGS: Human Gaussian Splats](https://arxiv.org/abs/2311.17910)|[Code](https://github.com/apple/ml-hugs)|
 |2024|CVPR|GSM|[GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/abs/2312.02069)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
 |2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
+|2024|CVPR|HHAvatar|[HHAvatar: Gaussian Head Avatar with Dynamic Hairs](https://arxiv.org/abs/2312.03029)|[Code](https://liaozhanfeng.github.io/HHAvatar/)|
 |2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
-|2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
-
 |2025|CVPR|GauHuman|[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://arxiv.org/abs/2503.17032)|[Code](https://pixelai-team.github.io/TaoAvatar/)|
 |2025|3DV|D3GA| [Drivable 3D Gaussian Avatars](https://arxiv.org/abs/2311.08581)|[Code](https://zielon.github.io/d3ga/)|
+|2025|ICCV|StrandHead| [StrandHead: Text to Hair-Disentangled 3D Head Avatars Using Human-Centric Priors](https://arxiv.org/abs/2412.11586) |[Code](https://xiaokunsun.github.io/StrandHead.github.io/)|
+|2025|CVPR|HRAvatar| [HRAvatar: High-Quality and Relightable Gaussian Head Avatar](https://arxiv.org/abs/2503.08224) |[Code](https://eastbeanzhang.github.io/HRAvatar/)|
+|2025|CVPR|GPAvatar| [GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_GPAvatar_High-fidelity_Head_Avatars_by_Learning_Efficient_Gaussian_Projections_CVPR_2025_paper.html)|❌|
 
 ### SLAM
 
