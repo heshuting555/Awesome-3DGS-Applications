@@ -336,12 +336,19 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 
 | Year | Venue | Paper Abbr | Title | Project/Code |
 |------|-------|---------|-------|---------|
+|2025|ICCV|DynaGSLAM|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/abs/2503.11979) |❌|
+|2024|ICLR|Gaussian-Det|[Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection](https://arxiv.org/abs/2410.01404) |❌|
+|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://zhenyangliu.github.io/SpatialReasoner/) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
+|2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
 
 ### 3DGS Detection
 
 | Year | Venue | Paper Abbr | Title | Project/Code |
 |------|-------|---------|-------|---------|
-
+|2024|ArXiv|3DGS-DET|[3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection](https://arxiv.org/abs/2410.01647) |[Code](https://github.com/yangcaoai/3DGS-DET)|
+|2024|ICLR|Gaussian-Det|[Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection](https://arxiv.org/abs/2410.01404) |❌|
+|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://zhenyangliu.github.io/SpatialReasoner/) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
+|2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
 
 ## ⛳ Related Survey
 
