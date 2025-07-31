@@ -28,7 +28,7 @@ This survey presents the first detailed survey on 3DGS for high-level semantic s
 
 ## 📚 Table of Contents
 
-- [📁 Existing Datasets for 3DGS Segmentation](#-existing-datasets-for-3dgs-segmentation)
+- [✂️ Existing Datasets for 3DGS Segmentation](#-existing-datasets-for-3dgs-segmentation)
 - [🗂️ Existing Datasets for 3DGS Editing](#%EF%B8%8F-existing-datasets-for-3dgs-editing)
 - [🧩 Existing Datasets for 3DGS Generation](#-existing-datasets-for-3dgs-generation)
 - [🛠️ Existing Methods for 3DGS Segmentation](#%EF%B8%8F-existing-methods-for-3dgs-segmentation)
@@ -41,7 +41,7 @@ This survey presents the first detailed survey on 3DGS for high-level semantic s
 - [⛳ Related Survey](#-related-survey)
 - [📢 Citation](#-citation)
 
-## 📁 Existing Datasets for 3DGS Segmentation
+## ✂️ Existing Datasets for 3DGS Segmentation
 
 This section summarizes commonly used datasets for segmentation tasks in 3D Gaussian Splatting.
 
