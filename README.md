@@ -315,10 +315,30 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 
 ### Human Avatar
 
+| Year | Venue | Paper Abbr | Title | Project/Code |
+|------|-------|---------|-------|---------|
+|2024|CVPR|GauHuman|[GauHuman: Articulated Gaussian Splatting from Monocular Human Videos](https://arxiv.org/abs/2312.02973)|[Code](https://github.com/skhu101/GauHuman)|
+|2024|CVPR|HiFi4G|[HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting](https://arxiv.org/abs/2312.03461)|[Code](https://nowheretrix.github.io/HiFi4G/)|
+|2024|CVPR|Animatable Gaussians|[Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://arxiv.org/abs/2311.16096)|[Code](https://animatable-gaussians.github.io/)|
+|2024|ACM MM|GGAvatar|[GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video](https://arxiv.org/abs/2411.09952)|[Code](https://github.com/J-X-Chen/GGAvatar/)|
+|2024|CVPR|HUGS|[HUGS: Human Gaussian Splats](https://arxiv.org/abs/2311.17910)|[Code](https://github.com/apple/ml-hugs)|
+|2024|CVPR|GSM|[GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/abs/2312.02069)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
+|2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
+|2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
+|2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
+
+|2025|CVPR|GauHuman|[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://arxiv.org/abs/2503.17032)|[Code](https://pixelai-team.github.io/TaoAvatar/)|
+|2025|3DV|D3GA| [Drivable 3D Gaussian Avatars](https://arxiv.org/abs/2311.08581)|[Code](https://zielon.github.io/d3ga/)|
+
 ### SLAM
+
+| Year | Venue | Paper Abbr | Title | Project/Code |
+|------|-------|---------|-------|---------|
 
 ### 3DGS Detection
 
+| Year | Venue | Paper Abbr | Title | Project/Code |
+|------|-------|---------|-------|---------|
 
 
 ## ⛳ Related Survey
