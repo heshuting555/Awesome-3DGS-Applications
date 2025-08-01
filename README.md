@@ -159,8 +159,12 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | AAAI | SAGA | [ Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [Code](https://jumpat.github.io/SAGA/) |
 | 2025 | ECCV | Gaussian Grouping | [ Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732) | [Code](https://github.com/lkeab/gaussian-grouping) |
 | 2025 | WACV  | GaussianBeV | [ GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](http://arxiv.org/abs/2407.14108) | ❌ |
-
-
+| 2025 | ICCV  | ILGS | [Identity-aware Language Gaussian Splatting for Open-vocabulary 3D Semantic Segmentation](https://iccv.thecvf.com/virtual/2025/poster/2029) | [Code](https://github.com/DCVL-3D/ILGS_release) |
+| 2025 | ICCV  | VoteSplat | [VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding](https://arxiv.org/abs/2506.22799) | [Code](https://sy-ja.github.io/votesplat/) |
+| 2025 | ICCV  | SceneSplat |[SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining](https://arxiv.org/abs/2503.18052)| [Code](https://unique1i.github.io/SceneSplat_webpage/) |
+| 2025 | ICCV  | ObjectGS | [ObjectGS: Object-aware Scene Reconstruction and Scene Understanding via Gaussian Splatting](https://arxiv.org/abs/2507.15454)| [Code](https://ruijiezhu94.github.io/ObjectGS_page/) |
+| 2025 | ICCV  | CCL-LGS |[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](https://arxiv.org/abs/2505.20469)| [Code](https://epsilontl.github.io/CCL-LGS/) |
+| 2025 | ICCV  | LUDVIG | [LUDVIG: Learning-free uplifting of 2d visual features to Gaussian splatting scenes](https://arxiv.org/abs/2410.14462) | [Code](https://juliettemarrie.github.io/ludvig/) |
 
 ## ✏️ Existing Methods for 3DGS Editing
 
@@ -310,6 +314,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
 | 2025 | ICLR   | GaussianAnything    | [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033) | [Code](https://nirvanalan.github.io/projects/ga/) |
 | 2025 | CVPR   | Turbo3D             | [Turbo3D: Ultra-fast Text-to-3D Generation](https://arxiv.org/abs/2412.04470) | [Code](https://turbo-3d.github.io/) |
+| 2025 | ICLR  | CogVideoX | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072) | [Code](https://github.com/zai-org/CogVideo) |
 
 ## 🎖Other Application Tasks
 
