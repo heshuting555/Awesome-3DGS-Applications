@@ -217,7 +217,7 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | ECCV       | WaSt-3D     | [Wast-3d: Wasserstein-2 distance for scene-to-scene stylization on 3d gaussians](https://link.springer.com/chapter/10.1007/978-3-031-72664-4_17) | [Code](https://compvis.github.io/wast3d/) |
 | 2025 | ICLR | DreamCatalyst | [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [Code](https://dream-catalyst.github.io/) |
 | 2025 | ArXiv       | -         | [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [Code](https://quyans.github.io/Drag-Your-Gaussian/) |
-| 2025 | AI        | Dragen3D     | [Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control](https://arxiv.org/abs/2502.16475) | ❌ |
+| 2025 | ArXiv  | Dragen3D     | [Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control](https://arxiv.org/abs/2502.16475) | ❌ |
 | 2025 | ICLR        | 3DitScene    | [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [Code](https://zqh0253.github.io/3DitScene/) |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2025 | ArXiv         | MultiDreamer3D | [MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance](https://arxiv.org/abs/2501.13449) | ❌ |
@@ -336,11 +336,19 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 
 | Year | Venue | Paper Abbr | Title | Project/Code |
 |------|-------|---------|-------|---------|
+|2024|CVPR|GS-SLAM|[GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting](https://arxiv.org/abs/2311.11700)|[Code](https://gs-slam.github.io/)|
+|2024|CVPR|SplaTAM|[SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM](https://arxiv.org/abs/2312.02126)|[Code](https://spla-tam.github.io/)|
+|2024|ACM MM|GS3LAM|[GS3LAM: Gaussian Semantic Splatting SLAM](https://dl.acm.org/doi/abs/10.1145/3664647.3680739)|[Code](https://github.com/lif314/GS3LAM)|
+|2024|IROS|LEGS|[[Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot](https://arxiv.org/abs/2409.18108)|[Code](https://berkeleyautomation.github.io/LEGS/)|
+|2024|ECCV|SGS-SLAM|[SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM](https://arxiv.org/abs/2402.03246)|❌|
+|2024|CVPR|Photo-SLAM|[Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras](https://arxiv.org/abs/2311.16728)|[Code](https://huajianup.github.io/research/Photo-SLAM/)|
+|2024|CVPR|-|[Gaussian Splatting SLAM](https://arxiv.org/abs/2312.06741)|[Code](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)|
 |2025|ICCV|DynaGSLAM|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/abs/2503.11979) |❌|
 |2025|ICCV|S3PO-GS|[Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/abs/2507.03737) |[Code](https://3dagentworld.github.io/S3PO-GS/)|
 |2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://zhenyangliu.github.io/SpatialReasoner/) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
-|2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
-
+|2025|CVPR|WildGS-SLAM|[WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/abs/2504.03886)|[Code](https://wildgs-slam.github.io/)|
+|2025|ICCV|SEGS-SLAM|[SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://arxiv.org/abs/2501.05242v3)|[Code](https://segs-slam.github.io/)|
+|2025|CVPR|OpenGS-SLAM|[OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding](https://arxiv.org/abs/2503.01646)|[Code](https://young-bit.github.io/opengs-github.github.io/)|
 ### 3DGS Detection
 
 | Year | Venue | Paper Abbr | Title | Project/Code |
