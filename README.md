@@ -223,12 +223,14 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | ArXiv         | MultiDreamer3D | [MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance](https://arxiv.org/abs/2501.13449) | ❌ |
 | 2025 | ICLR | DreamCatalyst | [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [Code](https://dream-catalyst.github.io/) |
 | 2025 | ICLR        | 3DitScene    | [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [Code](https://zqh0253.github.io/3DitScene/) |
+| 2025 | CVPR    | OmniSplat       | [OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities](https://arxiv.org/abs/2412.16604) | [Code](https://robot0321.github.io/omnisplat/index.html) |
+| 2025 | CVPR    | DaCapo       | [DaCapo: Score Distillation as Stacked Bridge for Fast and High-quality 3D Editing](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_DaCapo_Score_Distillation_as_Stacked_Bridge_for_Fast_and_High-quality_CVPR_2025_paper.html) | ❌ |
+| 2025 | CVPR    | CTRL-D       | [CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion](https://arxiv.org/abs/2412.01792) | [Code](https://ihe-kaii.github.io/CTRL-D/) |
+| 2025 | CVPR    | InterGSEdit       | [InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior](https://arxiv.org/abs/2507.04961) | ❌ |
 | 2025 | CVPR | EditSplat | [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](http://arxiv.org/abs/2412.11520) | [Code](https://kuai-lab.github.io/editsplat2024/) |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2025 | ICMR        | ArtNVG       | [ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](https://arxiv.org/abs/2412.18783) | ❌ |
-
-
-
+| 2025 | ACM MM    | PSP       | [Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing](https://arxiv.org/abs/2408.13623) | ❌ |
 
 ## 🎨 Existing Methods for 3DGS Generation
 
@@ -291,6 +293,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2024 | NeurIPS| ProlificDreamer  | [Prolificdreamer: High-fidelity and diverse text-to-3d generation with variational score distillation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/1a87980b9853e84dfb295855b425c262-Abstract-Conference.html) | [Code](https://ml.cs.tsinghua.edu.cn/prolificdreamer/) |
 | 2024 | NeurIPS | DiffGS           | [Diffgs: Functional gaussian splatting diffusion](https://proceedings.neurips.cc/paper_files/paper/2024/hash/41fb2ecb5b7d1b505bca787de0a603dc-Abstract-Conference.html) | [Code](https://junshengzhou.github.io/DiffGS/) |
 | 2024 | NeurIPS | HumanSplat       | [Humansplat: Generalizable single-image human gaussian splatting with structure priors](https://proceedings.neurips.cc/paper_files/paper/2024/hash/87affd2029375d1be123ccdab5334c55-Abstract-Conference.html) | [Code](https://humansplat.github.io/) |
+| 2024 | NeurIPS    | MVSplat360       | [MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views](https://arxiv.org/abs/2411.04924) | [Code](https://donydchen.github.io/mvsplat360/) |
 | 2024 | NeurIPS| GSGAN            | [GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7d90c28e7820709792d969211815a2b3-Abstract-Conference.html) | [Code](https://hse1032.github.io/gsgan) |
 | 2024 | ACM MM | Sketch3D         | [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://dl.acm.org/doi/abs/10.1145/3664647.3680641) | ❌ |
 | 2024 | ACM MM  | Hi3D             | [Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3664647.3681634) | [Code](https://github.com/yanghb22-fdu/Hi3D-Official) |
@@ -306,15 +309,38 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv   | GaussianMotion | [GaussianMotion: End-to-End Learning of Animatable Gaussian Avatars with Pose Guidance from Text](https://arxiv.org/abs/2502.11642) | ❌ |
 | 2025 | ArXiv   | GSV3D            | [GSV3D: Gaussian Splatting-based Geometric Distillation with Stable Video Diffusion for Single-Image 3D Object Generation](https://arxiv.org/abs/2503.06136) | ❌ |
 | 2025 | ArXiv    | LAYOUTDREAMER    | [LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation](https://arxiv.org/abs/2502.01949) | ❌ |
+| 2025 | ArXiv | TextSplat       | [TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting](https://arxiv.org/abs/2504.09588) | ❌ |
+| 2025 | ArXiv   | ViewCrafter       | [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048) | [Code](https://drexubery.github.io/ViewCrafter/) |
+| 2025 | ArXiv  | WAVE   | [WAVE: Warp-Based View Guidance for Consistent Novel View Synthesis Using a Single Image](https://arxiv.org/abs/2506.23518) | [Code](https://jwoo-park0.github.io/wave.github.io/) |
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
+| 2025 | AAAI    | Multi-StyleGS       | [Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles](https://arxiv.org/abs/2506.06846) | [Code](https://github.com/SCUTykLin/Multi-StyleGS) |
 | 2025 | AAAI    | Cycle3D          | [Cycle3d: High-quality and consistent image-to-3d generation via generation-reconstruction cycle](https://arxiv.org/abs/2407.19548) | [Code](https://pku-yuangroup.github.io/Cycle3D/) |
 | 2025 | ICLR   | LayoutYour3D | [Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint](https://arxiv.org/abs/2410.15391) | [Code](https://colezwhy.github.io/layoutyour3d/) |
-| 2025 | ICLR    | -              | [Atlas Gaussians Diffusion for 3D Generation](https://arxiv.org/abs/2408.13055) | ❌ |
+| 2025 | ICLR    | Atlas Gaussians   | [Atlas Gaussians Diffusion for 3D Generation](https://arxiv.org/abs/2408.13055) | [Code](https://yanghtr.github.io/projects/atlas_gaussians/) |
 | 2025 | ICLR   | GaussianAnything    | [GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation](https://arxiv.org/abs/2411.08033) | [Code](https://nirvanalan.github.io/projects/ga/) |
 | 2025 | ICLR  | CogVideoX | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072) | [Code](https://github.com/zai-org/CogVideo) |
+| 2025 | CVPR    | GaussianCity       | [Generative Gaussian Splatting for Unbounded 3D City Generation](https://arxiv.org/abs/2406.06526) | [Code](https://www.infinitescript.com/project/gaussian-city) |
+| 2025 | CVPR    | WonderWorld       | [WonderWorld: Interactive 3D Scene Generation from a Single Image](https://arxiv.org/abs/2406.09394) | [Code](https://kovenyu.com/wonderworld/) |
+| 2025 | CVPR    | SelfSplat       | [SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting](https://arxiv.org/abs/2411.17190) | [Code](https://gynjn.github.io/selfsplat/) |
+| 2025 | CVPR    | Wonderland       | [Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091) | [Code](https://snap-research.github.io/wonderland/) |
+| 2025 | CVPR    | Morpheus       | [Morpheus: Text-Driven 3D Gaussian Splat Shape and Color Stylization](https://arxiv.org/abs/2503.02009) | [Code](https://nianticlabs.github.io/morpheus/) |
+| 2025 | CVPR    | -      | [Taming Video Diffusion Prior with Scene-Grounding Guidance for 3D Gaussian Splatting from Sparse Inputs](https://arxiv.org/abs/2503.05082) | [Code](https://zhongyingji.github.io/guidevd-3dgs/) |
+| 2025 | CVPR    | Scene4U       | [Scene4U: Hierarchical Layered 3D Scene Reconstruction from Single Panoramic Image for Your Immerse Exploration](https://arxiv.org/abs/2504.00387) | [Code](https://github.com/LongHZ140516/Scene4U) |
+| 2025 | CVPR    | VideoScene       | [VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step](https://arxiv.org/abs/2504.01956) | [Code](https://hanyang-21.github.io/VideoScene/) |
+| 2025 | CVPR    | Scene Splatter       |[Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model](https://arxiv.org/abs/2504.02764) | [Code](https://shengjun-zhang.github.io/SceneSplatter/) |
+| 2025 | CVPR    | HCoG       | [Apply Hierarchical-Chain-of-Generation to Complex Attributes Text-to-3D Generation](https://arxiv.org/abs/2505.05505) | [Code](https://hierarchical-chain-of-generation.github.io/) |
+| 2025 | CVPR    | pixelSplat       | [pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction](https://arxiv.org/abs/2312.12337) | [Code](https://davidcharatan.com/pixelsplat/) |
+| 2025 | CVPR    | Splatter-360       | [Splatter-360: Generalizable 360^{\circ} Gaussian Splatting for Wide-baseline Panoramic Images](https://arxiv.org/abs/2412.06250) | [Code](https://3d-aigc.github.io/Splatter-360/) |
 | 2025 | CVPR   | Turbo3D             | [Turbo3D: Ultra-fast Text-to-3D Generation](https://arxiv.org/abs/2412.04470) | [Code](https://turbo-3d.github.io/) |
 | 2025 | ICCV    | DiffusionGS      | [Baking gaussian splatting into diffusion denoiser for fast and scalable single-stage image-to-3d generation](https://arxiv.org/abs/2411.14384) | [Code](https://caiyuanhao1998.github.io/project/DiffusionGS/) |
 | 2025 | ICCV    | VistaDream       | [VistaDream: Sampling multiview consistent images for single-view scene reconstruction](https://arxiv.org/abs/2410.16892) | [Code](https://github.com/WHU-USI3DV/VistaDream) |
+| 2025 | ICCV    | Tune-Your-Style       | [Tune-Your-Style: Intensity-tunable 3D Style Transfer with Gaussian Splatting](https://iccv.thecvf.com/virtual/2025/poster/2554) | [Code](https://zhao-yian.github.io/Tune-Your-Style/) |
+| 2025 | ICCV    | UniGS       | [UniGS: Modeling Unitary 3D Gaussians for Novel View Synthesis from Sparse-view Images](https://arxiv.org/abs/2410.13195) | [Code](https://github.com/jwubz123/UNIG) |
+| 2025 | ICCV    | CATSplat       | [CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image](https://arxiv.org/abs/2412.12906) | [Code](https://kuai-lab.github.io/catsplat2025/) |
+| 2025 | ICCV    | GGS      | [Generative Gaussian Splatting: Generating 3D Scenes with Video Diffusion Priors](https://arxiv.org/abs/2503.13272#:~:text=In%20this%20work%2C%20we%20present%20Generative%20Gaussian%20Splatting,representation%20with%20a%20pre-trained%20latent%20video%20diffusion%20model.) | [Code](https://katjaschwarz.github.io/ggs/) |
+| 2025 | ICCV    | VideoRFSplat       | [VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling](https://arxiv.org/abs/2503.15855) | [Code](https://gohyojun15.github.io/VideoRFSplat/) |
+| 2025 | ICCV    | SPFSplat       | [No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views](https://arxiv.org/abs/2508.01171) | [Code](https://ranrhuang.github.io/spfsplat/) |
+
 
 ## 🎖Other Application Tasks
 
