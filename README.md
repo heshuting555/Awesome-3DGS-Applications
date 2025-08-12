@@ -314,6 +314,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv   | ViewCrafter       | [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048) | [Code](https://drexubery.github.io/ViewCrafter/) |
 | 2025 | ArXiv  | WAVE   | [WAVE: Warp-Based View Guidance for Consistent Novel View Synthesis Using a Single Image](https://arxiv.org/abs/2506.23518) | [Code](https://jwoo-park0.github.io/wave.github.io/) |
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
+| 2025 | ArXiv   | FantasyStyle      | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2025 | AAAI    | Multi-StyleGS       | [Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles](https://arxiv.org/abs/2506.06846) | [Code](https://github.com/SCUTykLin/Multi-StyleGS) |
 | 2025 | AAAI    | Cycle3D          | [Cycle3d: High-quality and consistent image-to-3d generation via generation-reconstruction cycle](https://arxiv.org/abs/2407.19548) | [Code](https://pku-yuangroup.github.io/Cycle3D/) |
 | 2025 | ICLR   | LayoutYour3D | [Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint](https://arxiv.org/abs/2410.15391) | [Code](https://colezwhy.github.io/layoutyour3d/) |
