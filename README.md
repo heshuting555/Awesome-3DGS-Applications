@@ -192,8 +192,8 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | ArXiv        | PERSE       | [PERSE: Personalized 3D Generative Avatars from A Single Portrait](https://arxiv.org/abs/2412.21206) | [Code](https://hyunsoocha.github.io/perse/) |
 | 2024 | ArXiv        | ProGDF      | [ProGDF: Progressive Gaussian Differential Field for Controllable and Flexible 3D Editing](https://arxiv.org/abs/2412.08152) | ❌ |
 | 2024 | ArXiv        | RefFusion   | [Reffusion: Reference adapted diffusion models for 3d scene inpainting](https://arxiv.org/abs/2404.10765) | [Code](https://reffusion.github.io/) |
-| 2024 | ArXiv        | SGSST       | [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371) | ❌ |
-| 2024 | ArXiv        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
+| 2025 | CVPR        | SGSST       | [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371) | ❌ |
+| 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2024 | CVPR | GaussianEditor | [Gaussianeditor: Swift and controllable 3d editing with gaussian splatting](http://openaccess.thecvf.com/content/CVPR2024/html/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.html) | [Code](https://buaacyw.github.io/gaussian-editor/) |
 | 2024 | CVPR | GaussianEditorText | [Gaussianeditor: Editing 3d gaussians delicately with text instructions](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_GaussianEditor_Editing_3D_Gaussians_Delicately_with_Text_Instructions_CVPR_2024_paper.html) | [Code](https://gaussianeditor.github.io/) |
 | 2024 | CVPR | FruitNinja | [FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting](http://arxiv.org/abs/2411.12089) | [Code](https://fanguw.github.io/FruitNinja3D/) |
@@ -212,7 +212,7 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | Computer Graphics Forum | GSEditPro | [GSEditPro: 3D Gaussian Splatting Editing with Attention‐based Progressive Localization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15215) | ❌ |
 | 2024 | Computer Graphics Forum | G-Style   | [*𝒢*‐Style: Stylized Gaussian Splatting](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15259) | ❌ |
 | 2024 | ACM TOG | TIP-Editor | [Tip-editor: An accurate 3d editor following both text-prompts and image-prompts](https://dl.acm.org/doi/abs/10.1145/3658205) | [Code](https://zjy526223908.github.io/TIP-Editor/) |
-| 2024 | SA | StyleGaussian | [StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting](http://arxiv.org/abs/2404.13679) | [Code](https://kunhao-liu.github.io/StyleGaussian/) |
+| 2024 | SIGGRAPH | StyleGaussian | [StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting](http://arxiv.org/abs/2404.13679) | [Code](https://kunhao-liu.github.io/StyleGaussian/) |
 | 2024 | GCH | SemanticSplatStylization | [SemanticSplatStylization: Semantic scene stylization based on 3D Gaussian splatting and class-based style transfer](http://arxiv.org/abs/2404.11613) | ❌ |
 | 2024 | ACM MM     | -         | [3D Gaussian Editing with A Single Image](https://dl.acm.org/doi/pdf/10.1145/3664647.3680858) | ❌ |
 | 2024 | ACM MM     | GGAvatar     | [GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video](https://dl.acm.org/doi/abs/10.1145/3696409.3700241) | [Code](https://github.com/J-X-Chen/GGAvatar/) |
@@ -230,6 +230,7 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | CVPR    | InterGSEdit       | [InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior](https://arxiv.org/abs/2507.04961) | ❌ |
 | 2025 | CVPR | EditSplat | [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](http://arxiv.org/abs/2412.11520) | [Code](https://kuai-lab.github.io/editsplat2024/) |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
+| 2025 | ArXiv    | FantasyStyle       | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2025 | ICMR        | ArtNVG       | [ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](https://arxiv.org/abs/2412.18783) | ❌ |
 | 2025 | ACM MM    | PSP       | [Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing](https://arxiv.org/abs/2408.13623) | ❌ |
 
@@ -268,7 +269,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2024 | ArXiv    | -              | [Text-to-3D Gaussian Splatting with Physics-Grounded Motion Generation](https://arxiv.org/abs/2412.05560) | ❌ |
 | 2024 | ArXiv   | DreamScape       | [DreamScape: 3D Scene Creation via Gaussian Splatting joint Correlation Modeling](https://arxiv.org/abs/2404.09227) | ❌ |
 | 2024 | ArXiv   | DreamPolisher    | [Dreampolisher: Towards high-quality text-to-3d generation via geometric diffusion](https://arxiv.org/abs/2403.17237) | [Code](https://yuanze-lin.me/DreamPolisher_page/) |
-| 2024 | ArXiv    | Prometheus          | [Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation](https://arxiv.org/abs/2412.21117) | [Code](https://github.com/XDimLab/Prometheus) |
+| 2025 | CVPR    | Prometheus          | [Prometheus: 3D-Aware Latent Diffusion Models for Feed-Forward Text-to-3D Scene Generation](https://arxiv.org/abs/2412.21117) | [Code](https://github.com/XDimLab/Prometheus) |
 | 2024 | ArXiv   | DreamMapping | [DreamMapping: High-Fidelity Text-to-3D Generation via Variational Distribution Mapping](https://arxiv.org/abs/2409.05099) | ❌ |
 | 2024 | ICLR   | DreamGaussian | [Dreamgaussian: Generative gaussian splatting for efficient 3d content creation](https://arxiv.org/abs/2309.16653) | [Code](https://dreamgaussian.github.io/) |
 | 2024 | CVPR  | GSGen | [Text-to-3d using gaussian splatting](http://openaccess.thecvf.com/content/CVPR2024/html/Chen_Text-to-3D_using_Gaussian_Splatting_CVPR_2024_paper.html) | [Code](https://github.com/gsgen3d/gsgen) |
@@ -303,7 +304,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2024 | TMLR    | AGG              | [Agg: Amortized generative 3d gaussians for single image to 3d](https://arxiv.org/abs/2401.04099) | [Code](https://ir1d.github.io/AGG/) |
 | 2024 | ICML  | GALA3D | [Gala3d: Towards text-to-3d complex scene generation via layout-guided generative gaussian splatting](https://arxiv.org/abs/2402.07207) | [Code](https://gala3d.github.io/) |
 | 2024 | 3DV   | MVControl | [Controllable text-to-3D generation via surface-aligned Gaussian splatting](https://arxiv.org/abs/2403.09981) | [Code](https://lizhiqi49.github.io/MVControl/) |
-| 2024 | 3DV    | Realmdreamer        | [Realmdreamer: Text-driven 3d scene generation with inpainting and depth diffusion](https://arxiv.org/abs/2404.07199) | [Code](https://realmdreamer.github.io/) |
+| 2025 | 3DV    | Realmdreamer        | [Realmdreamer: Text-driven 3d scene generation with inpainting and depth diffusion](https://arxiv.org/abs/2404.07199) | [Code](https://realmdreamer.github.io/) |
 | 2024 | IJCAI    | FastScene           | [Fastscene: Text-driven fast 3d indoor scene generation via panoramic gaussian splatting](https://arxiv.org/abs/2405.05768) | ❌ |
 | 2024 | WACV   | GANFusion           | [GANFusion: Feed-Forward Text-to-3D with Diffusion in GAN Space](https://arxiv.org/abs/2412.16717) | [Code](https://ganfusion.github.io/) |
 | 2024 | IJCV   | Hyper3DG         | [Hyper-3dg: Text-to-3d gaussian generation via hypergraph](https://link.springer.com/article/10.1007/s11263-024-02298-y) | [Code](https://github.com/yjhboy/Hyper3DG) |
@@ -312,7 +313,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv    | LAYOUTDREAMER    | [LAYOUTDREAMER: Physics-guided Layout for Text-to-3D Compositional Scene Generation](https://arxiv.org/abs/2502.01949) | ❌ |
 | 2025 | ArXiv | TextSplat       | [TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting](https://arxiv.org/abs/2504.09588) | ❌ |
 | 2025 | ArXiv   | ViewCrafter       | [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048) | [Code](https://drexubery.github.io/ViewCrafter/) |
-| 2025 | ArXiv  | WAVE   | [WAVE: Warp-Based View Guidance for Consistent Novel View Synthesis Using a Single Image](https://arxiv.org/abs/2506.23518) | [Code](https://jwoo-park0.github.io/wave.github.io/) |
+| 2025 | ICCV  | WAVE   | [WAVE: Warp-Based View Guidance for Consistent Novel View Synthesis Using a Single Image](https://arxiv.org/abs/2506.23518) | [Code](https://jwoo-park0.github.io/wave.github.io/) |
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
 | 2025 | AAAI    | Multi-StyleGS       | [Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles](https://arxiv.org/abs/2506.06846) | [Code](https://github.com/SCUTykLin/Multi-StyleGS) |
 | 2025 | AAAI    | Cycle3D          | [Cycle3d: High-quality and consistent image-to-3d generation via generation-reconstruction cycle](https://arxiv.org/abs/2407.19548) | [Code](https://pku-yuangroup.github.io/Cycle3D/) |
