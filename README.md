@@ -56,7 +56,8 @@ This section summarizes commonly used datasets for segmentation tasks in 3D Gaus
 | [LERF-OVS](https://arxiv.org/abs/2312.16084) | CVPR'24 | 4 | 200 | An extended version of LERF dataset with ground truth mask annotations for open-vocabulary segmentation.|
 |[LERF-Mask](https://arxiv.org/abs/2312.00732) | ECCV'24 | 3 | 200 | Containing semantic annotations of three scenes from LERF dataset with a total of 23 prompts.|
 |[Ref-LERF](https://openreview.net/forum?id=reuShgiHdg)| ICML'25 | 4 | 200 | Focusing on spatial relationships, annotated with natural language expressions for referring 3DGS segmentation.|
-
+|[SceneSplat-7K](https://arxiv.org/abs/2503.18052) | ICCV'25 | 7k | - | The first large-scale, high-quality 3DGS dataset for indoor environments boosting scene understanding research.|
+|[SceneSplat-49K](https://arxiv.org/abs/2506.08710)| ArXiv'25 | 49k |- | Containing diverse indoor and outdoor scenes, featuring complex, high-quality full scenes from multiple sources.|
 
 
 ## 🗂️ Existing Datasets for 3DGS Editing
