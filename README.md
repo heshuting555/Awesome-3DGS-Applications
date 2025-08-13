@@ -4,7 +4,7 @@
    ·
     <a href=""><strong> Peilin Ji </strong></a>
     ·
-    <a href=""><strong>Yitong Yang </strong></a>
+    <a href="https://scholar.google.com/citations?user=whWr9fEAAAAJ&hl=zh-CN"><strong>Yitong Yang </strong></a>
     ·
     <a href="https://scholar.google.com/citations?user=dsV9sgwAAAAJ&hl=zh-CN"><strong>Changshuo Wang </strong></a>
     ·
@@ -20,7 +20,7 @@
 📌 Please feel free to pull requests for any possibly missed wonderful work.
 
 ## ✨ Introduction
-This survey presents the first detailed survey on 3DGS applications, including segmentation, editing, and generation.
+We present the first dedicated survey that systematically reviews downstream applications of 3DGS beyond classical view synthesis. Specifically, we focus on three rapidly evolving directions, namely segmentation, editing, and generation.
 <p align="center">
   <img src="figs/survey_pipeline.png" width="100%">
 </p>
