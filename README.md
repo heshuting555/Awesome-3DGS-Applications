@@ -15,7 +15,7 @@
     <a href="https://henghuiding.github.io/"><strong>Henghui Ding</strong></a>
   </p>
 
-💡 Welcome to the official repository of our journal paper.
+💡 Welcome to the official repository of our survey paper.
 
 📌 Please feel free to pull requests for any possibly missed wonderful work.
 
