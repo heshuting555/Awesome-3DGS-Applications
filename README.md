@@ -15,6 +15,12 @@
     <a href="https://henghuiding.github.io/"><strong>Henghui Ding</strong></a>
   </p>
 
+  <p align="center">
+    <a href="https://arxiv.org/abs/2508.09977">
+      <img src='https://img.shields.io/badge/Paper-PDF-green?style=flat&logo=arXiv&' alt='arXiv PDF'>
+    </a>
+  </p>
+
 💡 Welcome to the official repository of our survey paper.
 
 📌 Please feel free to pull requests for any possibly missed wonderful work.
