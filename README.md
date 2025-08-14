@@ -198,8 +198,6 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | ArXiv        | PERSE       | [PERSE: Personalized 3D Generative Avatars from A Single Portrait](https://arxiv.org/abs/2412.21206) | [Code](https://hyunsoocha.github.io/perse/) |
 | 2024 | ArXiv        | ProGDF      | [ProGDF: Progressive Gaussian Differential Field for Controllable and Flexible 3D Editing](https://arxiv.org/abs/2412.08152) | ❌ |
 | 2024 | ArXiv        | RefFusion   | [Reffusion: Reference adapted diffusion models for 3d scene inpainting](https://arxiv.org/abs/2404.10765) | [Code](https://reffusion.github.io/) |
-| 2025 | CVPR        | SGSST       | [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371) | ❌ |
-| 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2024 | CVPR | GaussianEditor | [Gaussianeditor: Swift and controllable 3d editing with gaussian splatting](http://openaccess.thecvf.com/content/CVPR2024/html/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.html) | [Code](https://buaacyw.github.io/gaussian-editor/) |
 | 2024 | CVPR | GaussianEditorText | [Gaussianeditor: Editing 3d gaussians delicately with text instructions](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_GaussianEditor_Editing_3D_Gaussians_Delicately_with_Text_Instructions_CVPR_2024_paper.html) | [Code](https://gaussianeditor.github.io/) |
 | 2024 | CVPR    | PhysGaussian       | [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://arxiv.org/abs/2311.12198) | [Code](https://xpandora.github.io/PhysGaussian/) |
@@ -237,6 +235,8 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | CVPR    | CTRL-D       | [CTRL-D: Controllable Dynamic 3D Scene Editing with Personalized 2D Diffusion](https://arxiv.org/abs/2412.01792) | [Code](https://ihe-kaii.github.io/CTRL-D/) |
 | 2025 | CVPR    | InterGSEdit       | [InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior](https://arxiv.org/abs/2507.04961) | ❌ |
 | 2025 | CVPR | EditSplat | [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](http://arxiv.org/abs/2412.11520) | [Code](https://kuai-lab.github.io/editsplat2024/) |
+| 2025 | CVPR        | SGSST       | [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371) | ❌ |
+| 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2025 | ArXiv    | FantasyStyle       | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2025 | ICMR        | ArtNVG       | [ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](https://arxiv.org/abs/2412.18783) | ❌ |
