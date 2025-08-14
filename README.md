@@ -205,7 +205,6 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | CVPR | FruitNinja | [FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting](http://arxiv.org/abs/2411.12089) | [Code](https://fanguw.github.io/FruitNinja3D/) |
 | 2024 | ECCV | GaussianGrouping | [Gaussian grouping: Segment and edit anything in 3d scenes](https://link.springer.com/chapter/10.1007/978-3-031-73397-0_10) | [Code](https://langsplat.github.io/) |
 | 2024 | ECCV | Texture-GS | [Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing](http://arxiv.org/abs/2403.10050) | ❌ |
-| 2024 | ECCV | GScream | [GScream: Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal](https://dl.acm.org/doi/10.1145/3681758.3698002) | ❌ |
 | 2024 | ECCV | GaussCtrl | [GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing](http://arxiv.org/abs/2403.08733) | [Code](https://gaussctrl.active.vision/) |
 | 2024 | ECCV       | 3DEgo        | [3DEgo: 3D Editing on the Go!](https://arxiv.org/pdf/2407.10102) | [Code](https://3dego.github.io/) |
 | 2024 | ECCV | DGE | [Dge: Direct gaussian 3d editing by consistent multi-view editing](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_5) | [Code](https://silent-chen.github.io/DGE/) |
