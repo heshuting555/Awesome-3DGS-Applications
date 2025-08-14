@@ -421,7 +421,7 @@ If you find this survey helpful, please consider citing it in your work. Thank y
 @article{he2025survey,
   title={A Survey on 3D Gaussian Splatting in Segmentation, Editing and Generation},
   author={He, Shuting and Ji, Peilin and Yang, Yitong and Wang, Changshuo and Ji, Jiayi and Wang, Yinglin and Ding, Henghui},
-  journal={arXiv preprint arXiv:2507.xxxxx},
+  journal={arXiv preprint arXiv:2508.09977},
   year={2025}
 }
 ```
