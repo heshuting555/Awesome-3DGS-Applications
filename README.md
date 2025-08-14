@@ -202,6 +202,8 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2024 | CVPR | GaussianEditor | [Gaussianeditor: Swift and controllable 3d editing with gaussian splatting](http://openaccess.thecvf.com/content/CVPR2024/html/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.html) | [Code](https://buaacyw.github.io/gaussian-editor/) |
 | 2024 | CVPR | GaussianEditorText | [Gaussianeditor: Editing 3d gaussians delicately with text instructions](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_GaussianEditor_Editing_3D_Gaussians_Delicately_with_Text_Instructions_CVPR_2024_paper.html) | [Code](https://gaussianeditor.github.io/) |
+| 2024 | CVPR    | PhysGaussian       | [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://arxiv.org/abs/2311.12198) | [Code](https://xpandora.github.io/PhysGaussian/) |
+| 2024 | CVPR    | SC-GS       | [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937) | [Code](https://github.com/CVMI-Lab/SC-GS) |
 | 2024 | CVPR | FruitNinja | [FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting](http://arxiv.org/abs/2411.12089) | [Code](https://fanguw.github.io/FruitNinja3D/) |
 | 2024 | ECCV | GaussianGrouping | [Gaussian grouping: Segment and edit anything in 3d scenes](https://link.springer.com/chapter/10.1007/978-3-031-73397-0_10) | [Code](https://langsplat.github.io/) |
 | 2024 | ECCV | Texture-GS | [Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing](http://arxiv.org/abs/2403.10050) | ❌ |
@@ -220,7 +222,7 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | ACM TOG | TIP-Editor | [Tip-editor: An accurate 3d editor following both text-prompts and image-prompts](https://dl.acm.org/doi/abs/10.1145/3658205) | [Code](https://zjy526223908.github.io/TIP-Editor/) |
 | 2024 | SIGGRAPH | StyleGaussian | [StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting](http://arxiv.org/abs/2404.13679) | [Code](https://kunhao-liu.github.io/StyleGaussian/) |
 | 2024 | GCH | SemanticSplatStylization | [SemanticSplatStylization: Semantic scene stylization based on 3D Gaussian splatting and class-based style transfer](http://arxiv.org/abs/2404.11613) | ❌ |
-| 2024 | ACM MM     | -         | [3D Gaussian Editing with A Single Image](https://dl.acm.org/doi/pdf/10.1145/3664647.3680858) | ❌ |
+| 2024 | ACM MM    | -       | [3D Gaussian Editing with A Single Image](https://arxiv.org/abs/2408.07540) | ❌ |
 | 2024 | ACM MM     | GGAvatar     | [GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video](https://dl.acm.org/doi/abs/10.1145/3696409.3700241) | [Code](https://github.com/J-X-Chen/GGAvatar/) |
 | 2024 | IET Image Processing | PointnMove | [Point'n Move: Interactive scene object manipulation on Gaussian splatting radiance fields](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.13190) | ❌ |
 | 2024 | TMLR        | -          | [Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting](https://arxiv.org/abs/2406.02541) | [Code](https://video-3dgs-project.github.io/) |
