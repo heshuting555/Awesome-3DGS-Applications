@@ -23,7 +23,7 @@
 
 💡 Welcome to the official repository of our survey paper.
 
-📌 Please feel free to pull requests for any possibly missed wonderful work.
+📌 Please feel free to [open issues or pull requests](https://github.com/heshuting555/Awesome-3DGS-Applications/issues/3) for any possibly missed wonderful work. 
 
 ## ✨ Introduction
 We present the first dedicated survey that systematically reviews downstream applications of 3DGS beyond classical view synthesis. Specifically, we focus on three rapidly evolving directions, namely segmentation, editing, and generation.
