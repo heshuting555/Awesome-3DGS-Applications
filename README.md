@@ -51,7 +51,7 @@ We present the first dedicated survey that systematically reviews downstream app
 
 This section summarizes commonly used datasets for segmentation tasks in 3D Gaussian Splatting.
 
-| Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
+| Datasets with URL   | Venue     | #Scenes | #Views  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
 |[ScanNet](https://arxiv.org/abs/1702.04405)| CVPR'17 | 1513 | 1500  | Large-scale RGB-D scans with 3D poses and semantics for advanced scene understanding.|
 |[Replica](https://arxiv.org/pdf/1906.05797) | ArXiv'19 | 18 | 175 | High-quality indoor scans with geometry, HDR textures, and rich semantic labels.|
@@ -70,7 +70,7 @@ This section summarizes commonly used datasets for segmentation tasks in 3D Gaus
 
 This section introduces datasets suitable for 3D editing tasks.
 
-| Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
+| Datasets with URL   | Venue     | #Scenes | #Views  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
 | [DTU](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Jensen_Large_Scale_Multi-view_2014_CVPR_paper.html) | CVPR'14 | 80 | 343 | Each scene consists of 49 or 64 accurate camera positions and reference structured light scans. |
 | [Tanks and Temples](https://dl.acm.org/doi/abs/10.1145/3072959.3073599) | TOG'17 | 14 | - | Includes individual objects (e.g., Tank, Train) and large indoor scenes (e.g., Auditorium, Museum). |
@@ -92,7 +92,7 @@ This section introduces datasets suitable for 3D editing tasks.
 
 This section covers datasets used for 3DGS-based generation tasks.
 
-| Datasets with URL   | Venue     | #Scenes | #Imgs  | Highlight |
+| Datasets with URL   | Venue     | #Type | #Scenes  | Highlight |
 |---------------------|-----------|---------|--------|-----------|
 | [NYUdepth](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/shkf_eccv2012.pdf)| ECCV'12 | Image-to-3D | 464 | Contains 1449 RGBD images, capturing 464 diverse indoor scenes, with detailed annotations. |
 | [ShapeNet](https://arxiv.org/abs/1512.03012) | ArXiv'15 | Image & Text-to-3D | 60K | These 3D models span 55 categories, each with a geometry file and unique identifier. |
@@ -106,6 +106,7 @@ This section covers datasets used for 3DGS-based generation tasks.
 | [OmniObject3D](https://arxiv.org/abs/2301.07525) | CVPR'23 | Image-to-3D | 6K | A large-scale collection of high-quality real-scanned 3D objects with rich 2D and 3D annotations. |
 | [LOM](https://arxiv.org/abs/2312.09093) | AAAI'24 | Image-to-3D | 5 | Includes 5 real-world scenes, each with 25–48 sRGB images captured in difficult lighting. |
 | [G-objaverse](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_4) | ECCV'24 | Image & Text-to-3D | 280K | Contains 10 general classes totaling about 280K samples. |
+| [DL3DV-10K](https://dl3dv-10k.github.io/DL3DV-10K/) | CVPR'24 | Image-to-3D | 10K | Large-scale scene dataset that contains both indoor and outdoor scenarios.|
 
 
 
