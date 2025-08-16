@@ -119,10 +119,9 @@ A summary of key segmentation approaches based on 3DGS.
 |---------------------|-----------|--------------------|---------------------------|-------------|
 | 2023 | NeurIPS  | SA3D | [ Segment Anything in 3D with Radiance Fields](http://arxiv.org/abs/2304.12308) |[Code](https://github.com/Jumpat/SegmentAnythingin3D) |
 | 2024 | ArXiv | DCSEG | [ DCSEG: Decoupled 3D Open-Set Segmentation using Gaussian Splatting](http://arxiv.org/abs/2412.10972) | [Code](https://github.com/lusxvr/dcseg)  |
-| 2024 | ArXiv | SuperGSeg | [ SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians](http://arxiv.org/abs/2412.10231) | ❌ |
+| 2024 | ArXiv | SuperGSeg | [ SuperGSeg: Open-Vocabulary 3D Segmentation with Structured Super-Gaussians](http://arxiv.org/abs/2412.10231) | [Code](https://supergseg.github.io/) |
 | 2024 | ArXiv | GS3 | [ Point Cloud Unsupervised Pre-training via 3D Gaussian Splatting](https://arxiv.org/abs/2411.18667) | ❌ |
 | 2024 | ArXiv  | SAGD | [ SAGD: Boundary-Enhanced Segment Anything in 3D Gaussian via Gaussian Decomposition](https://arxiv.org/abs/2401.17857) | [Code](https://github.com/XuHu0529/SAGS) |
-| 2024 | ArXiv  | SLGaussian | [ SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331) | ❌  |
 | 2024 | ArXiv  | CLIP-GS | [ CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding](http://arxiv.org/abs/2404.14249) | [Code](https://gbliao.github.io/CLIP-GS.github.io/)  |
 | 2024 | ArXiv  | GSemSplat| [ GSemSplat: Generalizable Semantic 3D Gaussian Splatting from Uncalibrated Image Pairs](http://arxiv.org/abs/2412.16932) | ❌ |
 | 2024 | ArXiv  | Semantic Gaussians | [ Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting](http://arxiv.org/abs/2403.15624) | [Code](https://sharinka0715.github.io/semantic-gaussians/) |
@@ -147,11 +146,11 @@ A summary of key segmentation approaches based on 3DGS.
 | 2024 | NeurIPS  | GaussianCut | [ GaussianCut: Interactive segmentation via graph cut for 3D Gaussian Splatting](http://arxiv.org/abs/2411.07555) | ❌  |
 | 2024 | NeurIPS | OpenGaussian | [ OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding](http://arxiv.org/abs/2406.02058) | [Code](https://3d-aigc.github.io/OpenGaussian) |
 | 2024 | ICPR | CGC | [ Contrastive Gaussian Clustering: Weakly Supervised 3D Scene Segmentation](https://arxiv.org/abs/2404.12784) | ❌ |
-| 2024 | BMVC  | RT-GS2 | [ RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields](http://arxiv.org/abs/2405.18033) | ❌ |
+| 2024 | BMVC  | RT-GS2 | [ RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields](http://arxiv.org/abs/2405.18033) | [Code](https://mbjurca.github.io/rt-gs2/) |
 | 2025 | ArXiv   | THGS | [Training-Free Hierarchical Scene Understanding for Gaussian Splatting with Superpoint Graphs](https://arxiv.org/abs/2504.13153) | [Code](https://github.com/Atrovast/THGS) |
 | 2025 | ArXiv   | SemanticSplat | [SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields](https://arxiv.org/abs/2506.09565) | [Code](https://semanticsplat.github.io/) |
 | 2025 | ArXiv  | FMLGS | [FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents](https://arxiv.org/abs/2504.08581) | ❌ |
-| 2025 | ArXiv  | seconGS | [Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying](https://arxiv.org/abs/2503.21767) | ❌ |
+| 2025 | ArXiv  | seconGS | [Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying](https://arxiv.org/abs/2503.21767) | [Code](https://evelinyin.github.io/seconGS/) |
 | 2025 | ArXiv   | CAGS | [CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/abs/2504.11893) | ❌ |
 | 2025 | AAAI | SAGA | [ Segment Any 3D Gaussians](https://arxiv.org/abs/2312.00860) | [Code](https://jumpat.github.io/SAGA/) |
 | 2025 | AAAI | FastLGS | [ FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping](http://arxiv.org/abs/2406.01916) | [Code](https://george-attano.github.io/FastLGS/)|
@@ -173,6 +172,7 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | ICCV   | LangScene-X | [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) | [Code](https://liuff19.github.io/LangScene-X/) |
 | 2025 | WACV  | GaussianBeV | [ GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](http://arxiv.org/abs/2407.14108) | ❌ |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | ❌ |
+| 2025 | ACM MM  | SLGaussian | [ SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331) | [Code](https://chenkangjie1123.github.io/SLGaussian.github.io/)  |
 
 ## ✏️ Existing Methods for 3DGS Editing
 
