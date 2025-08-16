@@ -182,10 +182,10 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 |------|-------|---------|-------|--------------|
 | 2024 | ArXiv | GaussianVTON | [Gaussianvton: 3d human virtual try-on via multi-stage gaussian splatting editing with image prompting](https://arxiv.org/abs/2405.07472) | [Code](https://haroldchen19.github.io/gsvton/) |
 | 2024 | ArXiv | Infusion | [InFusion: Inpainting 3D Gaussians via Learning Depth Completion from Diffusion Prior](http://arxiv.org/abs/2404.11613) | [Code](https://johanan528.github.io/Infusion/) |
-| 2024 | ArXiv | StyleSplat | [Stylesplat: 3d object style transfer with gaussian splatting](https://arxiv.org/abs/2407.09473) | ❌ |
+| 2024 | ArXiv | StyleSplat | [Stylesplat: 3d object style transfer with gaussian splatting](https://arxiv.org/abs/2407.09473) | [Code](https://bernard0047.github.io/stylesplat/) |
 | 2024 | ArXiv | StylizedGS | [Stylizedgs: Controllable stylization for 3d gaussian splatting](https://arxiv.org/abs/2404.05220) | ❌ |
 | 2024 | ArXiv | TIGER | [TIGER: Text-Instructed 3D Gaussian Retrieval and Coherent Editing](http://arxiv.org/abs/2405.14455) | [Code](https://xutanxing.github.io/TIGER/) |
-| 2024 | ArXiv | 360-INPAINTR | [360-INPAINTR: REFERENCE-GUIDED 3D INPAINTING FOR UNBOUNDED SCENES](https://openreview.net/pdf/ee332494bcd7f9e4b66494d65eb850f61e9a0b43.pdf) | ❌ |
+| 2024 | ArXiv | 360-InpaintR | [360-InpaintR: Reference-Guided 3D Inpainting for Unbounded Scenes](https://openreview.net/pdf/ee332494bcd7f9e4b66494d65eb850f61e9a0b43.pdf) | ❌ |
 | 2024 | ArXiv        | 3DSceneEditor | [3dsceneeditor: Controllable 3d scene editing with gaussian splatting](https://arxiv.org/abs/2412.01583) | [Code](https://ziyangyan.github.io/3DSceneEditor/) |
 | 2024 | ArXiv        | -          | [Diffusion-Based Attention Warping for Consistent 3D Scene Editing](https://arxiv.org/abs/2412.07984) | [Code](https://attention-warp.github.io/) |
 | 2024 | ArXiv        | DynamicAvatars | [DynamicAvatars: Accurate Dynamic Facial Avatars Reconstruction and Precise Editing with Diffusion Models](https://arxiv.org/abs/2411.15732) | ❌ |
@@ -199,25 +199,25 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | ArXiv        | PERSE       | [PERSE: Personalized 3D Generative Avatars from A Single Portrait](https://arxiv.org/abs/2412.21206) | [Code](https://hyunsoocha.github.io/perse/) |
 | 2024 | ArXiv        | ProGDF      | [ProGDF: Progressive Gaussian Differential Field for Controllable and Flexible 3D Editing](https://arxiv.org/abs/2412.08152) | ❌ |
 | 2024 | ArXiv        | RefFusion   | [Reffusion: Reference adapted diffusion models for 3d scene inpainting](https://arxiv.org/abs/2404.10765) | [Code](https://reffusion.github.io/) |
-| 2024 | CVPR | GaussianEditor | [Gaussianeditor: Swift and controllable 3d editing with gaussian splatting](http://openaccess.thecvf.com/content/CVPR2024/html/Chen_GaussianEditor_Swift_and_Controllable_3D_Editing_with_Gaussian_Splatting_CVPR_2024_paper.html) | [Code](https://buaacyw.github.io/gaussian-editor/) |
-| 2024 | CVPR | GaussianEditorText | [Gaussianeditor: Editing 3d gaussians delicately with text instructions](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_GaussianEditor_Editing_3D_Gaussians_Delicately_with_Text_Instructions_CVPR_2024_paper.html) | [Code](https://gaussianeditor.github.io/) |
+| 2024 | CVPR | GaussianEditor | [Gaussianeditor: Swift and controllable 3d editing with gaussian splatting](https://arxiv.org/abs/2311.14521) | [Code](https://buaacyw.github.io/gaussian-editor/) |
+| 2024 | CVPR | GaussianEditorText | [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037) | [Code](https://gaussianeditor.github.io/) |
 | 2024 | CVPR    | PhysGaussian       | [PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics](https://arxiv.org/abs/2311.12198) | [Code](https://xpandora.github.io/PhysGaussian/) |
 | 2024 | CVPR    | SC-GS       | [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937) | [Code](https://github.com/CVMI-Lab/SC-GS) |
 | 2024 | CVPR | FruitNinja | [FruitNinja: 3D Object Interior Texture Generation with Gaussian Splatting](http://arxiv.org/abs/2411.12089) | [Code](https://fanguw.github.io/FruitNinja3D/) |
-| 2024 | ECCV | GaussianGrouping | [Gaussian grouping: Segment and edit anything in 3d scenes](https://link.springer.com/chapter/10.1007/978-3-031-73397-0_10) | [Code](https://langsplat.github.io/) |
+| 2024 | ECCV | GaussianGrouping | [Gaussian grouping: Segment and edit anything in 3d scenes](https://arxiv.org/abs/2312.00732) | [Code](https://github.com/lkeab/gaussian-grouping) |
 | 2024 | ECCV | Texture-GS | [Texture-GS: Disentangling the Geometry and Texture for 3D Gaussian Splatting Editing](http://arxiv.org/abs/2403.10050) | ❌ |
 | 2024 | ECCV | GaussCtrl | [GaussCtrl: Multi-View Consistent Text-Driven 3D Gaussian Splatting Editing](http://arxiv.org/abs/2403.08733) | [Code](https://gaussctrl.active.vision/) |
 | 2024 | ECCV       | 3DEgo        | [3DEgo: 3D Editing on the Go!](https://arxiv.org/pdf/2407.10102) | [Code](https://3dego.github.io/) |
-| 2024 | ECCV | DGE | [Dge: Direct gaussian 3d editing by consistent multi-view editing](https://link.springer.com/chapter/10.1007/978-3-031-72904-1_5) | [Code](https://silent-chen.github.io/DGE/) |
+| 2024 | ECCV | DGE | [Dge: Direct gaussian 3d editing by consistent multi-view editing](https://arxiv.org/abs/2404.18929) | [Code](https://silent-chen.github.io/DGE/) |
 | 2024 | ECCV       | GScream     | [Learning 3D Geometry and Feature Consistent Gaussian Splatting for Object Removal](https://link.springer.com/chapter/10.1007/978-3-031-72646-0_1) | [Code](https://w-ted.github.io/publications/gscream/) |
 | 2024 | ECCV       | -         | [View-consistent 3d editing with gaussian splatting](https://link.springer.com/chapter/10.1007/978-3-031-72761-0_23) | [Code](https://vcedit.github.io/) |
 | 2024 | ECCV       | WaSt-3D     | [Wast-3d: Wasserstein-2 distance for scene-to-scene stylization on 3d gaussians](https://link.springer.com/chapter/10.1007/978-3-031-72664-4_17) | [Code](https://compvis.github.io/wast3d/) |
-| 2024 | NeurIPS    | ReGS        | [ReGS: Reference-based Controllable Scene Stylization with Gaussian Splatting](https://proceedings.neurips.cc/paper_files/paper/2024/hash/076c1fa639a7190e216e734f0a1b3e7b-Abstract-Conference.html) | ❌ |
+| 2024 | NeurIPS    | ReGS        | [ReGS: Reference-based Controllable Scene Stylization with Gaussian Splatting](https://arxiv.org/abs/2407.07220) | ❌ |
 | 2024 | NeurIPS    | ProEdit     | [ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing](https://arxiv.org/abs/2411.05006) | [Code](https://immortalco.github.io/ProEdit/) |
-| 2024 | NeurIPS    | D-MiSo       | [D-miso: Editing dynamic 3d scenes using multi-gaussians soup](https://proceedings.neurips.cc/paper_files/paper/2024/hash/c32319f4868da7613d78af9993100e42-Abstract-Conference.html) | [Code](https://github.com/waczjoan/D-MiSo) |
+| 2024 | NeurIPS    | D-MiSo       | [D-miso: Editing dynamic 3d scenes using multi-gaussians soup](https://arxiv.org/abs/2405.14276) | [Code](https://github.com/waczjoan/D-MiSo) |
 | 2024 | Computer Graphics Forum | GSEditPro | [GSEditPro: 3D Gaussian Splatting Editing with Attention‐based Progressive Localization](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15215) | ❌ |
 | 2024 | Computer Graphics Forum | G-Style   | [*𝒢*‐Style: Stylized Gaussian Splatting](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15259) | ❌ |
-| 2024 | ACM TOG | TIP-Editor | [Tip-editor: An accurate 3d editor following both text-prompts and image-prompts](https://dl.acm.org/doi/abs/10.1145/3658205) | [Code](https://zjy526223908.github.io/TIP-Editor/) |
+| 2024 | ACM TOG | TIP-Editor | [Tip-editor: An accurate 3d editor following both text-prompts and image-prompts](https://arxiv.org/abs/2401.14828) | [Code](https://zjy526223908.github.io/TIP-Editor/) |
 | 2024 | SIGGRAPH | StyleGaussian | [StyleGaussian: Instant 3D Style Transfer with Gaussian Splatting](http://arxiv.org/abs/2404.13679) | [Code](https://kunhao-liu.github.io/StyleGaussian/) |
 | 2024 | GCH | SemanticSplatStylization | [SemanticSplatStylization: Semantic scene stylization based on 3D Gaussian splatting and class-based style transfer](http://arxiv.org/abs/2404.11613) | ❌ |
 | 2024 | ACM MM    | -       | [3D Gaussian Editing with A Single Image](https://arxiv.org/abs/2408.07540) | ❌ |
