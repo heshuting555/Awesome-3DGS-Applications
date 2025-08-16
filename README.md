@@ -363,12 +363,11 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2024|CVPR|HiFi4G|[HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting](https://arxiv.org/abs/2312.03461)|[Code](https://nowheretrix.github.io/HiFi4G/)|
 |2024|CVPR|Animatable Gaussians|[Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://arxiv.org/abs/2311.16096)|[Code](https://animatable-gaussians.github.io/)|
 |2024|CVPR|HUGS|[HUGS: Human Gaussian Splats](https://arxiv.org/abs/2311.17910)|[Code](https://github.com/apple/ml-hugs)|
-|2024|CVPR|GSM|[GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/abs/2312.02069)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
+|2024|CVPR|GaussianAvatars|[GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/abs/2312.02069)|[Code](https://shenhanqian.github.io/gaussian-avatars)|
 |2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
 |2024|CVPR|HHAvatar|[HHAvatar: Gaussian Head Avatar with Dynamic Hairs](https://arxiv.org/abs/2312.03029)|[Code](https://liaozhanfeng.github.io/HHAvatar/)|
-|2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
 |2024|ACM MM|GGAvatar|[GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video](https://arxiv.org/abs/2411.09952)|[Code](https://github.com/J-X-Chen/GGAvatar/)|
-|2025|CVPR|GauHuman|[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://arxiv.org/abs/2503.17032)|[Code](https://pixelai-team.github.io/TaoAvatar/)|
+|2025|CVPR|TaoAvatar|[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://arxiv.org/abs/2503.17032)|[Code](https://pixelai-team.github.io/TaoAvatar/)|
 |2025|CVPR|HRAvatar| [HRAvatar: High-Quality and Relightable Gaussian Head Avatar](https://arxiv.org/abs/2503.08224) |[Code](https://eastbeanzhang.github.io/HRAvatar/)|
 |2025|CVPR|GPAvatar| [GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_GPAvatar_High-fidelity_Head_Avatars_by_Learning_Efficient_Gaussian_Projections_CVPR_2025_paper.html)|❌|
 |2025|ICCV|StrandHead| [StrandHead: Text to Hair-Disentangled 3D Head Avatars Using Human-Centric Priors](https://arxiv.org/abs/2412.11586) |[Code](https://xiaokunsun.github.io/StrandHead.github.io/)|
@@ -384,13 +383,13 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2024|CVPR|-|[Gaussian Splatting SLAM](https://arxiv.org/abs/2312.06741)|[Code](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)|
 |2024|ECCV|SGS-SLAM|[SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM](https://arxiv.org/abs/2402.03246)|❌|
 |2024|ACM MM|GS3LAM|[GS3LAM: Gaussian Semantic Splatting SLAM](https://dl.acm.org/doi/abs/10.1145/3664647.3680739)|[Code](https://github.com/lif314/GS3LAM)|
-|2024|IROS|LEGS|[[Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot](https://arxiv.org/abs/2409.18108)|[Code](https://berkeleyautomation.github.io/LEGS/)|
+|2024|IROS|LEGS|[Language-Embedded Gaussian Splats (LEGS): Incrementally Building Room-Scale Representations with a Mobile Robot](https://arxiv.org/abs/2409.18108)|[Code](https://berkeleyautomation.github.io/LEGS/)|
 |2025|CVPR|OpenGS-SLAM|[OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding](https://arxiv.org/abs/2503.01646)|[Code](https://young-bit.github.io/opengs-github.github.io/)|
 |2025|CVPR|WildGS-SLAM|[WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments](https://arxiv.org/abs/2504.03886)|[Code](https://wildgs-slam.github.io/)|
 |2025|ICCV|DynaGSLAM|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/abs/2503.11979) |❌|
 |2025|ICCV|S3PO-GS|[Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/abs/2507.03737) |[Code](https://3dagentworld.github.io/S3PO-GS/)|
 |2025|ICCV|SEGS-SLAM|[SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://arxiv.org/abs/2501.05242v3)|[Code](https://segs-slam.github.io/)|
-|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://zhenyangliu.github.io/SpatialReasoner/) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
+|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2507.06719) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
 
 ### 3DGS Detection
 
@@ -398,7 +397,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |------|-------|---------|-------|---------|
 |2024|ArXiv|3DGS-DET|[3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection](https://arxiv.org/abs/2410.01647) |[Code](https://github.com/yangcaoai/3DGS-DET)|
 |2024|ICLR|Gaussian-Det|[Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection](https://arxiv.org/abs/2410.01404) |❌|
-|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://zhenyangliu.github.io/SpatialReasoner/) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
+|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2507.06719) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
 |2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
 
 ## ⛳ Related Survey
