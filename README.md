@@ -366,6 +366,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2024|CVPR|GaussianAvatars|[GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians](https://arxiv.org/abs/2312.02069)|[Code](https://shenhanqian.github.io/gaussian-avatars)|
 |2024|CVPR|GSM|[Gaussian Shell Maps for Efficient 3D Human Generation](https://arxiv.org/abs/2311.17857)|[Code](https://rameenabdal.github.io/GaussianShellMaps/)|
 |2024|CVPR|HHAvatar|[HHAvatar: Gaussian Head Avatar with Dynamic Hairs](https://arxiv.org/abs/2312.03029)|[Code](https://liaozhanfeng.github.io/HHAvatar/)|
+|2024|ECCV| FlashAvatar|[FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally](https://arxiv.org/abs/2409.08270) |[Code](https://github.com/florinshen/FlashSplat)|
 |2024|ACM MM|GGAvatar|[GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video](https://arxiv.org/abs/2411.09952)|[Code](https://github.com/J-X-Chen/GGAvatar/)|
 |2025|CVPR|TaoAvatar|[TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting](https://arxiv.org/abs/2503.17032)|[Code](https://pixelai-team.github.io/TaoAvatar/)|
 |2025|CVPR|HRAvatar| [HRAvatar: High-Quality and Relightable Gaussian Head Avatar](https://arxiv.org/abs/2503.08224) |[Code](https://eastbeanzhang.github.io/HRAvatar/)|
@@ -389,7 +390,6 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2025|ICCV|DynaGSLAM|[DynaGSLAM: Real-Time Gaussian-Splatting SLAM for Online Rendering, Tracking, Motion Predictions of Moving Objects in Dynamic Scenes](https://arxiv.org/abs/2503.11979) |❌|
 |2025|ICCV|S3PO-GS|[Outdoor Monocular SLAM with Global Scale-Consistent 3D Gaussian Pointmaps](https://arxiv.org/abs/2507.03737) |[Code](https://3dagentworld.github.io/S3PO-GS/)|
 |2025|ICCV|SEGS-SLAM|[SEGS-SLAM: Structure-enhanced 3D Gaussian Splatting SLAM with Appearance Embedding](https://arxiv.org/abs/2501.05242v3)|[Code](https://segs-slam.github.io/)|
-|2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2507.06719) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
 
 ### 3DGS Detection
 
