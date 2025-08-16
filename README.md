@@ -265,7 +265,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2024 | ArXiv    | ScalingGaussian  | [ScalingGaussian: Enhancing 3D Content Creation with Generative Gaussian Splatting](https://arxiv.org/abs/2407.19035) | ❌ |
 | 2024 | ArXiv    | Physics3D        | [Physics3d: Learning physical properties of 3d gaussians via video diffusion](https://arxiv.org/abs/2406.04338) | [Code](https://liuff19.github.io/Physics3D/) |
 | 2024 | ArXiv    | -             | [Enhancing Single Image to 3D Generation using Gaussian Splatting and Hybrid Diffusion Priors](https://arxiv.org/abs/2410.09467) | ❌ |
-| 2024 | ArXiv   | GECO             | [GECO: Generative Image-to-3D within a SECOnd](https://arxiv.org/abs/2405.20327) | N/A |
+| 2024 | ArXiv   | GECO             | [GECO: Generative Image-to-3D within a SECOnd](https://arxiv.org/abs/2405.20327) | [Code](https://cwchenwang.github.io/geco/) |
 | 2024 | ArXiv    | DreamPhysics     | [Dreamphysics: Learning physical properties of dynamic 3d gaussians with video diffusion priors](https://arxiv.org/abs/2406.01476) | [Code](https://github.com/tyhuang0428/DreamPhysics) |
 | 2024 | ArXiv    | GaussianPainter  | [GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance](https://arxiv.org/abs/2412.17715) | [Code](https://github.com/zhou745/GaussianPainter) |
 | 2024 | ArXiv    | Gaussianstego    | [Gaussianstego: A generalizable stenography pipeline for generative 3d gaussians splatting](https://arxiv.org/abs/2407.01301) | [Code](https://gaussian-stego.github.io/) |
