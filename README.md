@@ -173,6 +173,8 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | ICCV  | CCL-LGS |[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](https://arxiv.org/abs/2505.20469)| [Code](https://epsilontl.github.io/CCL-LGS/) |
 | 2025 | ICCV  | LUDVIG | [LUDVIG: Learning-free uplifting of 2d visual features to Gaussian splatting scenes](https://arxiv.org/abs/2410.14462) | [Code](https://juliettemarrie.github.io/ludvig/) |
 | 2025 | ICCV   | LangScene-X | [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) | [Code](https://liuff19.github.io/LangScene-X/) |
+| 2025 | NeurIPS  | Segment then Splat | [Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting](https://arxiv.org/abs/2503.22204) | [Code](https://vulab-ai.github.io/Segment-then-Splat/) |
+| 2025 | NeurIPS  | LangSplatV2 | [High-dimensional 3D Language Gaussian Splatting with 450+ FPS](https://arxiv.org/abs/2507.07136) | [Code](https://langsplat-v2.github.io/) |
 | 2025 | WACV  | GaussianBeV | [ GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](http://arxiv.org/abs/2407.14108) | ❌ |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | ❌ |
 | 2025 | ACM MM  | SLGaussian | [ SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331) | [Code](https://chenkangjie1123.github.io/SLGaussian.github.io/)  |
@@ -240,6 +242,9 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | CVPR    | InterGSEdit       | [InterGSEdit: Interactive 3D Gaussian Splatting Editing with 3D Geometry-Consistent Attention Prior](https://arxiv.org/abs/2507.04961) | ❌ |
 | 2025 | CVPR | EditSplat | [EditSplat: Multi-View Fusion and Attention-Guided Optimization for View-Consistent 3D Scene Editing with 3D Gaussian Splatting](http://arxiv.org/abs/2412.11520) | [Code](https://kuai-lab.github.io/editsplat2024/) |
 | 2025 | CVPR        | SGSST       | [SGSST: Scaling Gaussian Splatting StyleTransfer](https://arxiv.org/abs/2412.03371) | ❌ |
+| 2025 | NeurIPS        | DFFSplat       | [Diffusion Feature Field for Text-based 3D Editing with Gaussian Splatting](https://neurips.cc/virtual/2025/poster/118619) | ❌ |
+| 2025 | NeurIPS        | CLIPGaussian       | [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://neurips.cc/virtual/2025/poster/116356) | ❌ |
+| 2025 | NeurIPS        | DEGauss       | [DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting](https://neurips.cc/virtual/2025/poster/118529) | ❌ |
 | 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2025 | ICMR        | ArtNVG       | [ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](https://arxiv.org/abs/2412.18783) | ❌ |
@@ -375,6 +380,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2025|CVPR|HRAvatar| [HRAvatar: High-Quality and Relightable Gaussian Head Avatar](https://arxiv.org/abs/2503.08224) |[Code](https://eastbeanzhang.github.io/HRAvatar/)|
 |2025|CVPR|GPAvatar| [GPAvatar: High-fidelity Head Avatars by Learning Efficient Gaussian Projections](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_GPAvatar_High-fidelity_Head_Avatars_by_Learning_Efficient_Gaussian_Projections_CVPR_2025_paper.html)|❌|
 |2025|ICCV|StrandHead| [StrandHead: Text to Hair-Disentangled 3D Head Avatars Using Human-Centric Priors](https://arxiv.org/abs/2412.11586) |[Code](https://xiaokunsun.github.io/StrandHead.github.io/)|
+|2025|NeurIPS|CGS-GAN|[CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis](https://arxiv.org/abs/2505.17590)|[Code](https://fraunhoferhhi.github.io/cgs-gan/)|
 |2025|3DV|D3GA| [Drivable 3D Gaussian Avatars](https://arxiv.org/abs/2311.08581)|[Code](https://zielon.github.io/d3ga/)|
 
 ### SLAM
@@ -400,6 +406,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |------|-------|---------|-------|---------|
 |2024|ArXiv|3DGS-DET|[3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection](https://arxiv.org/abs/2410.01647) |[Code](https://github.com/yangcaoai/3DGS-DET)|
 |2024|ICLR|Gaussian-Det|[Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection](https://arxiv.org/abs/2410.01404) |❌|
+|2025|NeurIPS|-|[3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion](https://neurips.cc/virtual/2025/poster/116876) |❌|
 |2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2507.06719) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
 |2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
 
