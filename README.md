@@ -173,11 +173,14 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | ICCV  | CCL-LGS |[CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting](https://arxiv.org/abs/2505.20469)| [Code](https://epsilontl.github.io/CCL-LGS/) |
 | 2025 | ICCV  | LUDVIG | [LUDVIG: Learning-free uplifting of 2d visual features to Gaussian splatting scenes](https://arxiv.org/abs/2410.14462) | [Code](https://juliettemarrie.github.io/ludvig/) |
 | 2025 | ICCV   | LangScene-X | [LangScene-X: Reconstruct Generalizable 3D Language-Embedded Scenes with TriMap Video Diffusion](https://arxiv.org/abs/2507.02813) | [Code](https://liuff19.github.io/LangScene-X/) |
+| 2025 | ACM MM  | SLGaussian | [ SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331) | [Code](https://chenkangjie1123.github.io/SLGaussian.github.io/)  |
+| 2025 | ACM MM  | MaskGaussians | [ MaskGaussians: Advancing Open-Vocabulary 3D Scene Understanding with Dynamic Masking ACM MM](https://dl.acm.org/doi/10.1145/3728486.3759210) | ❌ |
 | 2025 | NeurIPS  | Segment then Splat | [Segment then Splat: A Unified Approach for 3D Open-Vocabulary Segmentation based on Gaussian Splatting](https://arxiv.org/abs/2503.22204) | [Code](https://vulab-ai.github.io/Segment-then-Splat/) |
 | 2025 | NeurIPS  | LangSplatV2 | [High-dimensional 3D Language Gaussian Splatting with 450+ FPS](https://arxiv.org/abs/2507.07136) | [Code](https://langsplat-v2.github.io/) |
+| 2025 | NeurIPS  | COS3D | [COS3D: Collaborative Open-Vocabulary 3D Segmentation NeurIPS](https://arxiv.org/abs/2510.20238) | [Code](https://github.com/Runsong123/COS3D) |
 | 2025 | WACV  | GaussianBeV | [ GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](http://arxiv.org/abs/2407.14108) | ❌ |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | ❌ |
-| 2025 | ACM MM  | SLGaussian | [ SLGaussian: Fast Language Gaussian Splatting in Sparse Views](http://arxiv.org/abs/2412.08331) | [Code](https://chenkangjie1123.github.io/SLGaussian.github.io/)  |
+
 
 ## ✏️ Existing Methods for 3DGS Editing
 
