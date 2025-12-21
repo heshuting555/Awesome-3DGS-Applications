@@ -419,6 +419,8 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 |2025|NeurIPS|-|[3D Gaussian Splatting based Scene-independent Relocalization with Unidirectional and Bidirectional Feature Fusion](https://neurips.cc/virtual/2025/poster/116876) |❌|
 |2025|ACM MM|SpatialReasoner|[A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding](https://arxiv.org/abs/2507.06719) |[Code](https://zhenyangliu.github.io/SpatialReasoner/)|
 |2025|IROS|MATT-GS|[MATT-GS: Masked Attention-based 3DGS for Robot Perception and Object Detection](https://arxiv.org/abs/2503.19330) |❌|
+|2025|CVPR|ReasonGrounder|[ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning](https://arxiv.org/abs/2503.23297) |[Code](https://zhenyangliu.github.io/ReasonGrounder/)|
+|2025|ArXiv|GVR|[Zero-shot Visual Grounding in 3D Gaussians via View Retrieval](https://arxiv.org/abs/2509.15871)|[Code](https://github.com/leviome/GVR_demos)|
 
 ## ⛳ Related Survey
 
