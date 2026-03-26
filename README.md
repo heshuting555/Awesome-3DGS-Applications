@@ -252,12 +252,14 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2025 | ICMR        | ArtNVG       | [ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](https://arxiv.org/abs/2412.18783) | ❌ |
+| 2025 | ICME | ABC-GS | [ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/ABC-GS) |
 | 2025 | ACM MM    | PSP       | [Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing](https://arxiv.org/abs/2408.13623) | ❌ |
 | 2025 | ICCV | RoMaP | [Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling](https://arxiv.org/abs/2507.11061) | [Code](https://janeyeon.github.io/romap/) |
 | 2025 | ICCV | PAInpainter | [Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency](https://arxiv.org/abs/2510.10993) | [Code](https://pa-inpainter.github.io/) |
 | 2025 | ICCV | A<sup>3</sup>GS | [A<sup>3</sup>GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.pdf) | [Code](https://artgaussian.github.io/) |
 | 2025 | NeurIPS | Pro3D-Editor | [Pro3D-Editor : A Progressive-Views Perspective for Consistent and Precise 3D Editing](https://arxiv.org/abs/2506.00512) | [Code](https://shuoyueli4519.github.io/Pro3D-Editor/) |
 | 2025 | NeurIPS | Styl3R | [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [Code](https://github.com/WU-CVGL/Styl3R) |
+| 2026 | AAAI | GT²-GS | [GT²-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/GT2-GS) |
 
 ## 🎨 Existing Methods for 3DGS Generation
 
