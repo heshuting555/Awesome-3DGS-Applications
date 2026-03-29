@@ -181,6 +181,8 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | NeurIPS  | SIU3R | [SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment](https://arxiv.org/abs/2507.02705) | [Code](https://insomniaaac.github.io/siu3r/) |
 | 2025 | WACV  | GaussianBeV | [ GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](http://arxiv.org/abs/2407.14108) | ❌ |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | ❌ |
+| 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
+| 2026 | CVPR   | ReLaGS | [ReLaGS: Relational Language Gaussian Splatting](https://arxiv.org/abs/2603.17605) | [Code](https://dfki-av.github.io/ReLaGS/) |
 
 
 ## ✏️ Existing Methods for 3DGS Editing
@@ -238,6 +240,7 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | ArXiv       | -         | [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [Code](https://quyans.github.io/Drag-Your-Gaussian/) |
 | 2025 | ArXiv  | Dragen3D     | [Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control](https://arxiv.org/abs/2502.16475) | ❌ |
 | 2025 | ArXiv         | MultiDreamer3D | [MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance](https://arxiv.org/abs/2501.13449) | ❌ |
+| 2025 | ACM MM    | PSP       | [Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing](https://arxiv.org/abs/2408.13623) | ❌ |
 | 2025 | ICLR | DreamCatalyst | [DreamCatalyst: Fast and High-Quality 3D Editing via Controlling Editability and Identity Preservation](https://arxiv.org/abs/2407.11394) | [Code](https://dream-catalyst.github.io/) |
 | 2025 | ICLR        | 3DitScene    | [3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting](https://arxiv.org/abs/2405.18424) | [Code](https://zqh0253.github.io/3DitScene/) |
 | 2025 | CVPR    | OmniSplat       | [OmniSplat: Taming Feed-Forward 3D Gaussian Splatting for Omnidirectional Images with Editable Capabilities](https://arxiv.org/abs/2412.16604) | [Code](https://robot0321.github.io/omnisplat/index.html) |
@@ -249,17 +252,20 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | NeurIPS        | DFFSplat       | [Diffusion Feature Field for Text-based 3D Editing with Gaussian Splatting](https://neurips.cc/virtual/2025/poster/118619) | ❌ |
 | 2025 | NeurIPS        | CLIPGaussian       | [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://neurips.cc/virtual/2025/poster/116356) | ❌ |
 | 2025 | NeurIPS        | DEGauss       | [DEGauss: Defending Against Malicious 3D Editing for Gaussian Splatting](https://neurips.cc/virtual/2025/poster/118529) | ❌ |
-| 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
-| 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
+| 2025 | NeurIPS | Pro3D-Editor | [Pro3D-Editor : A Progressive-Views Perspective for Consistent and Precise 3D Editing](https://arxiv.org/abs/2506.00512) | [Code](https://shuoyueli4519.github.io/Pro3D-Editor/) |
+| 2025 | NeurIPS | Styl3R | [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [Code](https://github.com/WU-CVGL/Styl3R) |
 | 2025 | ICMR        | ArtNVG       | [ArtNVG: Content-Style Separated Artistic Neighboring-View Gaussian Stylization](https://arxiv.org/abs/2412.18783) | ❌ |
 | 2025 | ICME | ABC-GS | [ABC-GS: Alignment-Based Controllable Style Transfer for 3D Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/ABC-GS) |
-| 2025 | ACM MM    | PSP       | [Prompt-Softbox-Prompt: A free-text Embedding Control for Image Editing](https://arxiv.org/abs/2408.13623) | ❌ |
 | 2025 | ICCV | RoMaP | [Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling](https://arxiv.org/abs/2507.11061) | [Code](https://janeyeon.github.io/romap/) |
 | 2025 | ICCV | PAInpainter | [Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency](https://arxiv.org/abs/2510.10993) | [Code](https://pa-inpainter.github.io/) |
 | 2025 | ICCV | A<sup>3</sup>GS | [A<sup>3</sup>GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.pdf) | [Code](https://artgaussian.github.io/) |
-| 2025 | NeurIPS | Pro3D-Editor | [Pro3D-Editor : A Progressive-Views Perspective for Consistent and Precise 3D Editing](https://arxiv.org/abs/2506.00512) | [Code](https://shuoyueli4519.github.io/Pro3D-Editor/) |
-| 2025 | NeurIPS | Styl3R | [Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/abs/2505.21060) | [Code](https://github.com/WU-CVGL/Styl3R) |
+| 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
+| 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2026 | AAAI | GT²-GS | [GT²-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/GT2-GS) |
+| 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
+| 2026 | ICLR   | Stylos | [Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455)| [Code](https://github.com/HanzhouLiu/Stylos) |
+| 2026 | ICLR   | VF-Editor | [Variation-aware Flexible 3D Gaussian Editing](https://arxiv.org/abs/2602.11638)| [Code](https://qinbaigao.github.io/VF-Editor-project-page/) |
+| 2026 | ICLR   | Color3D | [Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer](https://arxiv.org/abs/2510.10152)| [Code](https://github.com/yecongwan/Color3D) |
 
 ## 🎨 Existing Methods for 3DGS Generation
 
@@ -372,7 +378,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ICCV    | SPFSplat       | [No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views](https://arxiv.org/abs/2508.01171) | [Code](https://ranrhuang.github.io/spfsplat/) |
 | 2025 | NeurIPS | TRIM | [TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642) | [Code](https://github.com/zeyuanyin/TRIM) |
 | 2025 | NeurIPS | TraCe | [Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation](https://arxiv.org/pdf/2511.05609) | [Code](https://github.com/emmaleee789/TraCe) |
-
+| 2026 | ICLR   | Color3D | [Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer](https://arxiv.org/abs/2510.10152)| [Code](https://github.com/yecongwan/Color3D) |
 
 ## 🎖Other Application Tasks
 
