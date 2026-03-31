@@ -181,9 +181,12 @@ A summary of key segmentation approaches based on 3DGS.
 | 2025 | NeurIPS  | SIU3R | [SIU3R: Simultaneous Scene Understanding and 3D Reconstruction Beyond Feature Alignment](https://arxiv.org/abs/2507.02705) | [Code](https://insomniaaac.github.io/siu3r/) |
 | 2025 | WACV  | GaussianBeV | [ GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation](http://arxiv.org/abs/2407.14108) | ❌ |
 | 2025 | WACV   | LBG | [Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation](https://arxiv.org/abs/2502.00173) | ❌ |
+| 2026 | AAAI   | EvoPropGS | [Evolving Semantic Propagation for Aerial Semantic 3D Gaussian Splatting](https://ojs.aaai.org/index.php/AAAI/article/view/42418) | ❌ |
+| 2026 | AAAI   | ID-Splat | [ID-Splat: Propagating Object Identities for Segmenting 3D Aerial-view Scenes](https://ojs.aaai.org/index.php/AAAI/article/view/37995) | ❌ |
+| 2026 | AAAI   | UniC-Lift | [UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning](https://arxiv.org/abs/2512.24763) | [Code](https://github.com/val-iisc/UniC-Lift) |
+| 2026 | AAAI   | Binary-Gaussian | [Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/38142)| ❌ |
 | 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
 | 2026 | CVPR   | ReLaGS | [ReLaGS: Relational Language Gaussian Splatting](https://arxiv.org/abs/2603.17605) | [Code](https://dfki-av.github.io/ReLaGS/) |
-
 
 ## ✏️ Existing Methods for 3DGS Editing
 
@@ -236,7 +239,6 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2024 | IET Image Processing | PointnMove | [Point'n Move: Interactive scene object manipulation on Gaussian splatting radiance fields](https://arxiv.org/abs/2311.16737) | [Code](https://github.com/jhuangBU/pnm) |
 | 2024 | TMLR        | -          | [Enhancing Temporal Consistency in Video Editing by Reconstructing Videos with 3D Gaussian Splatting](https://arxiv.org/abs/2406.02541) | [Code](https://video-3dgs-project.github.io/) |
 | 2024 | SIGGRAPH   | PortraitGen | [Portrait video editing empowered by multimodal generative priors](https://dl.acm.org/doi/abs/10.1145/3680528.3687601) | [Code](https://ustc3dv.github.io/PortraitGen/) |
-| 2025 | ArXiv    | FantasyStyle       | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2025 | ArXiv       | -         | [Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2501.18672) | [Code](https://quyans.github.io/Drag-Your-Gaussian/) |
 | 2025 | ArXiv  | Dragen3D     | [Dragen3D: Multiview Geometry Consistent 3D Gaussian Generation with Drag-Based Control](https://arxiv.org/abs/2502.16475) | ❌ |
 | 2025 | ArXiv         | MultiDreamer3D | [MultiDreamer3D: Multi-concept 3D Customization with Concept-Aware Diffusion Guidance](https://arxiv.org/abs/2501.13449) | ❌ |
@@ -261,11 +263,15 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | ICCV | A<sup>3</sup>GS | [A<sup>3</sup>GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.pdf) | [Code](https://artgaussian.github.io/) |
 | 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
-| 2026 | AAAI | GT²-GS | [GT²-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/GT2-GS) |
 | 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
+| 2026 | AAAI | GT²-GS | [GT²-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/GT2-GS) |
+| 2026 | AAAI   | GPGS | [GPGS: Consistent 3D Object Removal via Geometry-Aware 3D Inpainting and Projected Image Refnement in 3D Gaussian Splatting](https://ojs.aaai.org/index.php/AAAI/article/view/37515)| [Code](https://github.com/yongjoon99/GPGS) |
+| 2026 | AAAI   | GS-Checker | [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://ojs.aaai.org/index.php/AAAI/article/view/42455) | [Code](https://github.com/haolianghan/GS-Checker)|
+| 2026 | AAAI   | FantasyStyle      | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2026 | ICLR   | Stylos | [Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455)| [Code](https://github.com/HanzhouLiu/Stylos) |
 | 2026 | ICLR   | VF-Editor | [Variation-aware Flexible 3D Gaussian Editing](https://arxiv.org/abs/2602.11638)| [Code](https://qinbaigao.github.io/VF-Editor-project-page/) |
 | 2026 | ICLR   | Color3D | [Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer](https://arxiv.org/abs/2510.10152)| [Code](https://github.com/yecongwan/Color3D) |
+
 
 ## 🎨 Existing Methods for 3DGS Generation
 
@@ -348,7 +354,6 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ArXiv   | ViewCrafter       | [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048) | [Code](https://drexubery.github.io/ViewCrafter/) |
 | 2025 | ICCV  | WAVE   | [WAVE: Warp-Based View Guidance for Consistent Novel View Synthesis Using a Single Image](https://arxiv.org/abs/2506.23518) | [Code](https://jwoo-park0.github.io/wave.github.io/) |
 | 2025 | ArXiv   | Triflow             | [Taming Feed-forward Reconstruction Models as Latent Encoders for 3D Generative Models](https://arxiv.org/abs/2501.00651) | [Code](https://triflow.github.io/) |
-| 2025 | ArXiv   | FantasyStyle      | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2025 | AAAI    | Multi-StyleGS       | [Multi-StyleGS: Stylizing Gaussian Splatting with Multiple Styles](https://arxiv.org/abs/2506.06846) | [Code](https://github.com/SCUTykLin/Multi-StyleGS) |
 | 2025 | AAAI    | Cycle3D          | [Cycle3d: High-quality and consistent image-to-3d generation via generation-reconstruction cycle](https://arxiv.org/abs/2407.19548) | [Code](https://pku-yuangroup.github.io/Cycle3D/) |
 | 2025 | ICLR   | LayoutYour3D | [Layout-your-3D: Controllable and Precise 3D Generation with 2D Blueprint](https://arxiv.org/abs/2410.15391) | [Code](https://colezwhy.github.io/layoutyour3d/) |
@@ -378,6 +383,7 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ICCV    | SPFSplat       | [No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views](https://arxiv.org/abs/2508.01171) | [Code](https://ranrhuang.github.io/spfsplat/) |
 | 2025 | NeurIPS | TRIM | [TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642) | [Code](https://github.com/zeyuanyin/TRIM) |
 | 2025 | NeurIPS | TraCe | [Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation](https://arxiv.org/pdf/2511.05609) | [Code](https://github.com/emmaleee789/TraCe) |
+| 2026 | AAAI    | FantasyStyle       | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
 | 2026 | ICLR   | Color3D | [Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer](https://arxiv.org/abs/2510.10152)| [Code](https://github.com/yecongwan/Color3D) |
 
 ## 🎖Other Application Tasks
