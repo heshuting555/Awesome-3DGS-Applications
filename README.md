@@ -261,16 +261,16 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | ICCV | RoMaP | [Robust 3D-Masked Part-level Editing in 3D Gaussian Splatting with Regularized Score Distillation Sampling](https://arxiv.org/abs/2507.11061) | [Code](https://janeyeon.github.io/romap/) |
 | 2025 | ICCV | PAInpainter | [Perspective-aware 3D Gaussian Inpainting with Multi-view Consistency](https://arxiv.org/abs/2510.10993) | [Code](https://pa-inpainter.github.io/) |
 | 2025 | ICCV | A<sup>3</sup>GS | [A<sup>3</sup>GS: Arbitrary Artistic Style into Arbitrary 3D Gaussian Splatting](https://openaccess.thecvf.com/content/ICCV2025/papers/Fang_A3GS_Arbitrary_Artistic_Style_into_Arbitrary_3D_Gaussian_Splatting_ICCV_2025_paper.pdf) | [Code](https://artgaussian.github.io/) |
+| 2025 | ICLR | 3DGS-Drag | [3DGS-Drag: Dragging gaussians for intuitive point-based 3D editing](https://arxiv.org/pdf/2601.07963) | [Code](https://github.com/Dongjiahua/3DGS-Drag) |
 | 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
 | 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
 | 2026 | AAAI | GT²-GS | [GT²-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/GT2-GS) |
 | 2026 | AAAI   | GPGS | [GPGS: Consistent 3D Object Removal via Geometry-Aware 3D Inpainting and Projected Image Refnement in 3D Gaussian Splatting](https://ojs.aaai.org/index.php/AAAI/article/view/37515)| [Code](https://github.com/yongjoon99/GPGS) |
 | 2026 | AAAI   | GS-Checker | [GS-Checker: Tampering Localization for 3D Gaussian Splatting](https://ojs.aaai.org/index.php/AAAI/article/view/42455) | [Code](https://github.com/haolianghan/GS-Checker)|
-| 2026 | AAAI   | FantasyStyle      | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
+| 2026 | AAAI   | FantasyStyle      | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | [Code](https://github.com/yangyt46/FantasyStyle) |
 | 2026 | ICLR   | Stylos | [Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455)| [Code](https://github.com/HanzhouLiu/Stylos) |
-| 2026 | ICLR   | VF-Editor | [Variation-aware Flexible 3D Gaussian Editing](https://arxiv.org/abs/2602.11638)| [Code](https://qinbaigao.github.io/VF-Editor-project-page/) |
-| 2026 | ICLR   | Color3D | [Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer](https://arxiv.org/abs/2510.10152)| [Code](https://github.com/yecongwan/Color3D) |
+| 2026 | ArXiv | DiffStyle3D | [DiffStyle3D: Consistent 3D Gaussian Stylization via Attention Optimization](https://arxiv.org/pdf/2601.19717) | ❌ |
 
 
 ## 🎨 Existing Methods for 3DGS Generation
@@ -382,9 +382,9 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 | 2025 | ICCV    | VideoRFSplat       | [VideoRFSplat: Direct Scene-Level Text-to-3D Gaussian Splatting Generation with Flexible Pose and Multi-View Joint Modeling](https://arxiv.org/abs/2503.15855) | [Code](https://gohyojun15.github.io/VideoRFSplat/) |
 | 2025 | ICCV    | SPFSplat       | [No Pose at All: Self-Supervised Pose-Free 3D Gaussian Splatting from Sparse Views](https://arxiv.org/abs/2508.01171) | [Code](https://ranrhuang.github.io/spfsplat/) |
 | 2025 | NeurIPS | TRIM | [TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642) | [Code](https://github.com/zeyuanyin/TRIM) |
+| 2025 | ArXiv | SAM 3D | [Sam 3d: 3dfy anything in images](https://arxiv.org/abs/2511.16624) | [Code](https://github.com/facebookresearch/sam-3d-objects) |
 | 2025 | NeurIPS | TraCe | [Walking the Schrödinger Bridge: A Direct Trajectory for Text-to-3D Generation](https://arxiv.org/pdf/2511.05609) | [Code](https://github.com/emmaleee789/TraCe) |
-| 2026 | AAAI    | FantasyStyle       | [FantasyStyle: Controllable Stylized Distillation for 3D Gaussian Splatting](https://arxiv.org/abs/2508.08136) | ❌ |
-| 2026 | ICLR   | Color3D | [Color3D: Controllable and Consistent 3D Colorization with Personalized Colorizer](https://arxiv.org/abs/2510.10152)| [Code](https://github.com/yecongwan/Color3D) |
+| 2026 | ICLR | FlashWorld | [FlashWorld: High-quality 3D Scene Generation within Seconds](https://arxiv.org/abs/2510.13678) | [Code](https://imlixinyang.github.io/FlashWorld-Project-Page/) |
 
 ## 🎖Other Application Tasks
 
