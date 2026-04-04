@@ -185,6 +185,7 @@ A summary of key segmentation approaches based on 3DGS.
 | 2026 | AAAI   | ID-Splat | [ID-Splat: Propagating Object Identities for Segmenting 3D Aerial-view Scenes](https://ojs.aaai.org/index.php/AAAI/article/view/37995) | ❌ |
 | 2026 | AAAI   | UniC-Lift | [UniC-Lift: Unified 3D Instance Segmentation via Contrastive Learning](https://arxiv.org/abs/2512.24763) | [Code](https://github.com/val-iisc/UniC-Lift) |
 | 2026 | AAAI   | Binary-Gaussian | [Binary-Gaussian: Compact and Progressive Representation for 3D Gaussian Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/38142)| ❌ |
+| 2026 | AAAI   | IQGS | [IQGS: Instance Query-based Gaussian Segmentation](https://ojs.aaai.org/index.php/AAAI/article/view/42415) | [Code](https://github.com/tom-gao-gyc/IQGS) |
 | 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
 | 2026 | CVPR   | ReLaGS | [ReLaGS: Relational Language Gaussian Splatting](https://arxiv.org/abs/2603.17605) | [Code](https://dfki-av.github.io/ReLaGS/) |
 
