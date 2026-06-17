@@ -21,6 +21,8 @@
     </a>
   </p>
 
+🎉 Our paper is accepted to TPAMI!
+
 💡 Welcome to the official repository of our survey paper.
 
 📌 Please feel free to [open issues or pull requests](https://github.com/heshuting555/Awesome-3DGS-Applications/issues/3) for any possibly missed wonderful work. 
@@ -463,11 +465,12 @@ Discusses generation methods that produce 3DGS representations from multimodal i
 If you find this survey helpful, please consider citing it in your work. Thank you for your support!
 
 ```
-@article{he2025survey,
+@article{he2026survey,
   title={A Survey on 3D Gaussian Splatting in Segmentation, Editing and Generation},
   author={He, Shuting and Ji, Peilin and Yang, Yitong and Wang, Changshuo and Ji, Jiayi and Wang, Yinglin and Ding, Henghui},
-  journal={arXiv preprint arXiv:2508.09977},
-  year={2025}
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
