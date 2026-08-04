@@ -267,6 +267,7 @@ Overview of methods that enable direct or indirect editing of 3DGS content.
 | 2025 | ICLR | 3DGS-Drag | [3DGS-Drag: Dragging gaussians for intuitive point-based 3D editing](https://arxiv.org/pdf/2601.07963) | [Code](https://github.com/Dongjiahua/3DGS-Drag) |
 | 2025 | TMM        | Trame       | [Trame: Trajectory-anchored multi-view editing for text-guided 3d gaussian splatting manipulation](https://arxiv.org/abs/2407.02034) | ❌ |
 | 2025 | WACV        | -         | [Localized Gaussian Splatting Editing with Contextual Awareness](https://arxiv.org/abs/2408.00083) | ❌ |
+| 2026 | ECCV | MLP-Splatting | [MLP Splatting: Object-Centric Neural Fields](https://arxiv.org/abs/2606.03877) | [Project](https://www.shinjeongkim.com/mlp-splatting/) |
 | 2026 | CVPR   | REALM | [REALM: An MLLM-Agent Framework for Open World 3D Reasoning Segmentation and Editing on Gaussian Splatting](https://arxiv.org/abs/2510.16410) | [Code](https://changyueshi.github.io/REALM/) |
 | 2026 | AAAI | GT²-GS | [GT²-GS: Geometry-aware Texture Transfer for Gaussian Splatting](https://arxiv.org/abs/2505.15208) | [Code](https://github.com/vpx-ecnu/GT2-GS) |
 | 2026 | AAAI   | GPGS | [GPGS: Consistent 3D Object Removal via Geometry-Aware 3D Inpainting and Projected Image Refnement in 3D Gaussian Splatting](https://ojs.aaai.org/index.php/AAAI/article/view/37515)| [Code](https://github.com/yongjoon99/GPGS) |
@@ -473,4 +474,3 @@ If you find this survey helpful, please consider citing it in your work. Thank y
   publisher={IEEE}
 }
 ```
-
